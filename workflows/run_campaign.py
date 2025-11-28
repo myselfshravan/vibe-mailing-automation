@@ -32,7 +32,7 @@ from core.checkpoint import (
 from core.tracker import CampaignTracker
 from core.llm_client import generate_email_content
 from core.email_preview import preview_email, edit_email_body
-from core.email_sender import send_email
+from core.email_sender import send_email, compose_email
 from core.cooldown import apply_cooldown
 from core.browser import close_browser
 
@@ -272,58 +272,34 @@ def campaign_loop(
 
             email = generate_email_content(template, contact, use_llm=True)
 
-            # Preview if semi-auto mode
+            # Send/Compose email based on mode
             if mode == "semi":
-                action = preview_email(
-                    recipient=contact['email'],
+                # Browser preview mode - compose and let user send manually
+                logger.debug(f"Composing email for browser preview: {contact['email']}")
+
+                # Show brief info in CLI
+                print(f"\n{'='*60}")
+                print(f"Contact [{idx}/{total}]: {contact['name']} ({contact['company']})")
+                print(f"Email: {contact['email']}")
+                print(f"{'='*60}")
+
+                success, message = compose_email(
+                    driver,
+                    to=contact['email'],
                     subject=email['subject'],
                     body=email['body'],
-                    contact_index=idx,
-                    total_contacts=total,
-                    contact=contact
+                    wait_for_user=True  # Wait for user to send manually in browser
                 )
+            else:
+                # Autonomous mode - auto-send
+                logger.debug(f"Sending email (autonomous): {contact['email']}")
 
-                if action == "skip":
-                    logger.info(f"Skipped {contact['email']}")
-                    tracker.log_email_skipped(contact, "User skipped")
-                    tracker.update_checkpoint()
-                    continue
-
-                elif action == "edit":
-                    # Edit body
-                    email['body'] = edit_email_body(email['body'])
-
-                    # Confirm send after edit
-                    confirm_action = preview_email(
-                        recipient=contact['email'],
-                        subject=email['subject'],
-                        body=email['body'],
-                        contact_index=idx,
-                        total_contacts=total,
-                        contact=contact
-                    )
-
-                    if confirm_action != "send":
-                        logger.info(f"Skipped {contact['email']} after edit")
-                        tracker.log_email_skipped(contact, "User skipped after edit")
-                        tracker.update_checkpoint()
-                        continue
-
-                elif action == "abort":
-                    logger.warning("Campaign aborted by user")
-                    print("\n⚠️  Campaign aborted by user")
-                    tracker.update_checkpoint()
-                    raise KeyboardInterrupt()
-
-            # Send email
-            logger.debug(f"Sending email to {contact['email']}")
-
-            success, message = send_email(
-                driver,
-                to=contact['email'],
-                subject=email['subject'],
-                body=email['body']
-            )
+                success, message = send_email(
+                    driver,
+                    to=contact['email'],
+                    subject=email['subject'],
+                    body=email['body']
+                )
 
             if success:
                 logger.info(f"✓ Email sent to {contact['email']}")

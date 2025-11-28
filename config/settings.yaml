@@ -2,20 +2,19 @@
 
 # Browser Configuration
 browser:
-  headless: false                    # Always visible (user preference)
-  profile_base_dir: "./profiles"     # Where Chrome profiles are stored
-  window_size: "1920,1080"          # Browser window dimensions
-  timeout: 30                        # Implicit wait timeout in seconds
+  headless: false # Always visible (user preference)
+  profile_base_dir: "./profiles" # Where Chrome profiles are stored
+  window_size: "1920,1080" # Browser window dimensions
+  timeout: 30 # Implicit wait timeout in seconds
 
 # Workflow Mode
-mode: "semi"                         # Options: "autonomous" | "semi"
-                                     # semi = preview before sending (recommended)
+mode: "semi" # Options: "autonomous" | "semi"
 
 # LLM Configuration (Groq)
 llm:
   base_url: "https://api.groq.com/openai/v1"
-  model: "llama-3.3-70b-versatile"   # Fast and high-quality model
-  api_key: "ENV:GROQ_API_KEY"        # Read from environment variable
+  model: "llama-3.3-70b-versatile" # Fast and high-quality model
+  api_key: "ENV:GROQ_API_KEY" # Read from environment variable
   temperature: 0.7
   max_tokens: 500
   timeout: 30
@@ -23,12 +22,12 @@ llm:
 # Email Campaign Settings
 campaign:
   cooldown:
-    min_seconds: 20                  # Minimum wait between emails
-    max_seconds: 45                  # Maximum wait between emails
-    jitter: true                     # Add random variation to avoid detection
+    min_seconds: 20 # Minimum wait between emails
+    max_seconds: 45 # Maximum wait between emails
+    jitter: true # Add random variation to avoid detection
 
 # Logging
 logging:
   log_file: "./logs/app.log"
-  level: "INFO"                      # DEBUG | INFO | WARNING | ERROR
+  level: "INFO" # DEBUG | INFO | WARNING | ERROR
   format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

@@ -60,28 +60,31 @@ GMAIL_SELECTORS = {
 }
 
 
-def send_email(
+def compose_email(
     driver: webdriver.Chrome,
     to: str,
     subject: str,
     body: str,
+    wait_for_user: bool = False,
     timeout: int = 30
 ) -> Tuple[bool, str]:
     """
-    Send email through Gmail web interface.
+    Compose email in Gmail (optionally wait for user to send manually).
 
     Args:
         driver: Chrome WebDriver instance
         to: Recipient email address
         subject: Email subject
         body: Email body
+        wait_for_user: If True, compose and wait for user to send manually
         timeout: Timeout for operations
 
     Returns:
         Tuple of (success, message)
     """
-    logger.info(f"Sending email to {to}")
+    logger.info(f"Composing email to {to}")
     logger.debug(f"Subject: {subject}")
+    logger.debug(f"Wait for user: {wait_for_user}")
 
     try:
         # Ensure we're on Gmail
@@ -118,26 +121,77 @@ def send_email(
 
         time.sleep(1)
 
-        # Step 5: Click send
-        logger.debug("Clicking send button...")
-        if not click_send(driver):
-            return False, "Failed to click send button"
+        # Step 5: Send or wait for user
+        if wait_for_user:
+            # Browser preview mode - let user send manually
+            logger.info(f"Email composed for {to}. Waiting for user to send manually...")
+            print(f"\n{'='*60}")
+            print(f"✓ Email composed and ready in browser")
+            print(f"{'='*60}")
+            print(f"\nTo:      {to}")
+            print(f"Subject: {subject}")
+            print(f"\n📧 The email is now open in your browser.")
+            print(f"   Review it, attach files if needed, then:")
+            print(f"   - Click 'Send' in Gmail to send")
+            print(f"   - Or close the compose window to skip")
+            print(f"\nWaiting for you to send the email...")
+            print(f"{'='*60}\n")
 
-        # Step 6: Verify sent
-        time.sleep(2)  # Wait for send confirmation
-        logger.debug("Verifying email sent...")
-        if not verify_sent(driver, timeout=10):
-            # Check for error messages
-            error = handle_send_errors(driver)
-            return False, error or "Email may not have sent (no confirmation)"
+            input("Press Enter after you've sent or closed the email...")
 
-        logger.info(f"✓ Email sent successfully to {to}")
-        return True, "Email sent successfully"
+            # Check if email was sent
+            if verify_sent(driver, timeout=5):
+                logger.info(f"✓ Email sent by user to {to}")
+                return True, "Email sent by user"
+            else:
+                logger.info(f"Email compose window closed without sending to {to}")
+                return False, "Email not sent (compose window closed)"
+        else:
+            # Auto-send mode
+            logger.debug("Clicking send button...")
+            if not click_send(driver):
+                return False, "Failed to click send button"
+
+            # Verify sent
+            time.sleep(2)  # Wait for send confirmation
+            logger.debug("Verifying email sent...")
+            if not verify_sent(driver, timeout=10):
+                # Check for error messages
+                error = handle_send_errors(driver)
+                return False, error or "Email may not have sent (no confirmation)"
+
+            logger.info(f"✓ Email sent successfully to {to}")
+            return True, "Email sent successfully"
 
     except Exception as e:
         error_msg = f"Error sending email: {str(e)}"
         logger.error(error_msg, exc_info=True)
         return False, error_msg
+
+
+def send_email(
+    driver: webdriver.Chrome,
+    to: str,
+    subject: str,
+    body: str,
+    timeout: int = 30
+) -> Tuple[bool, str]:
+    """
+    Send email through Gmail web interface (auto-send).
+
+    This is a wrapper around compose_email for backward compatibility.
+
+    Args:
+        driver: Chrome WebDriver instance
+        to: Recipient email address
+        subject: Email subject
+        body: Email body
+        timeout: Timeout for operations
+
+    Returns:
+        Tuple of (success, message)
+    """
+    return compose_email(driver, to, subject, body, wait_for_user=False, timeout=timeout)
 
 
 def open_compose(driver: webdriver.Chrome) -> bool:
