@@ -1,0 +1,16 @@
+# VibeMailing Gmail Accounts Configuration
+
+accounts:
+  - id: test_account
+    email: vibemailingtest@gmail.com
+    profile_dir: profile_vibemailingtest
+    display_name: "Vibe Mailing Test Account"
+
+# Add more accounts as needed:
+# - id: account2
+#   email: your-email2@gmail.com
+#   profile_dir: profile_email2
+#   display_name: "Secondary Account"
+
+# Each account will have its own Chrome profile for session persistence
+# Profile directories are stored in ./profiles/

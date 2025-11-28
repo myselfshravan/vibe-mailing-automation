@@ -1,0 +1,79 @@
+# VibeMailing Email Templates and LLM Prompts
+
+# System prompt for LLM
+system_prompt: |
+  You are an expert email writer specializing in professional outreach.
+  Write concise, personalized, and engaging emails that feel genuine.
+  Keep emails under 150 words.
+  Avoid corporate jargon and overly salesy language.
+  Make the recipient feel valued, not like one of thousands.
+  Be professional yet warm and approachable.
+
+# Email templates
+templates:
+  - name: default_outreach
+    subject_template: "Quick question about {company}"
+    body_template: |
+      Hi {name},
+
+      I noticed your work at {company} and was impressed by your background.
+
+      I'm reaching out because I believe we might have some interesting opportunities to collaborate.
+
+      Would you be open to a brief conversation to explore potential synergies?
+
+      Best regards,
+      Shravan
+
+    # Personalization instructions for LLM
+    personalization_prompt: |
+      Personalize this email for {name} who works at {company}.
+      Email: {email}
+      LinkedIn: {linkedin}
+
+      Make it feel genuine and specific to their background.
+      Change 1-3 sentences to make it more personal and relevant.
+      Keep the same structure but make it feel authentic, not templated.
+      Maintain professional tone while being warm and approachable.
+
+  - name: follow_up
+    subject_template: "Following up - {company}"
+    body_template: |
+      Hi {name},
+
+      I wanted to follow up on my previous email about potential collaboration opportunities.
+
+      I understand you're busy, but I believe this could be mutually beneficial.
+
+      Would you have 15 minutes this week for a quick call?
+
+      Best,
+      Shravan
+
+    personalization_prompt: |
+      Create a follow-up email for {name} at {company}.
+      Keep it brief and add value.
+      Don't be pushy, just a gentle reminder with genuine interest.
+      Make it feel personal and respectful of their time.
+
+  - name: introduction
+    subject_template: "Introduction - {name}"
+    body_template: |
+      Hi {name},
+
+      My name is Shravan, and I came across your profile while researching professionals at {company}.
+
+      I'm impressed by your background and thought it would be valuable to connect.
+
+      I'd love to learn more about your work and share some ideas that might interest you.
+
+      Looking forward to connecting,
+      Shravan
+
+    personalization_prompt: |
+      Write a personalized introduction email for {name} at {company}.
+      LinkedIn: {linkedin}
+
+      Make it warm, genuine, and professional.
+      Show specific interest in their background.
+      Keep it conversational and not overly formal.

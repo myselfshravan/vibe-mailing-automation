@@ -8,3 +8,26 @@ wheels/
 
 # Virtual environments
 .venv
+
+# VibeMailing Specific
+profiles/                # Chrome user profiles (contain sessions)
+logs/*.log              # Log files
+logs/campaign_history/  # Campaign history
+checkpoints/            # Campaign checkpoints
+.env                    # Environment variables (API keys)
+config/accounts.yaml    # Account configurations (emails)
+config/*.local.yaml     # Local config overrides
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# env
+.env
