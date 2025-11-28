@@ -1,0 +1,160 @@
+2025-11-28 21:06:18 - VibeMailing - INFO - ============================================================
+2025-11-28 21:06:18 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-11-28 21:06:18 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-11-28 21:06:18 - VibeMailing - INFO - Log level: INFO
+2025-11-28 21:06:18 - VibeMailing - INFO - ============================================================
+2025-11-28 21:06:18 - VibeMailing - INFO - ============================================================
+2025-11-28 21:06:18 - VibeMailing - INFO - VibeMailing Started
+2025-11-28 21:06:18 - VibeMailing - INFO - ============================================================
+2025-11-28 21:13:55 - VibeMailing - INFO - ============================================================
+2025-11-28 21:13:55 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-11-28 21:13:55 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-11-28 21:13:55 - VibeMailing - INFO - Log level: INFO
+2025-11-28 21:13:55 - VibeMailing - INFO - ============================================================
+2025-11-28 21:13:55 - VibeMailing - INFO - ============================================================
+2025-11-28 21:13:55 - VibeMailing - INFO - VibeMailing Started
+2025-11-28 21:13:55 - VibeMailing - INFO - ============================================================
+2025-11-28 21:14:03 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-11-28 21:14:03 - VibeMailing - INFO - Starting first-time setup for vibemailingtest@gmail.com
+2025-11-28 21:14:03 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-11-28 21:14:03 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-11-28 21:14:04 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-11-28 21:14:04 - VibeMailing - INFO - Waiting for user to log in...
+2025-11-28 21:14:04 - VibeMailing - INFO - Checking Gmail login status...
+2025-11-28 21:15:10 - VibeMailing - INFO - ✓ User is logged in
+2025-11-28 21:15:10 - VibeMailing - INFO - ✓ First-time setup completed for vibemailingtest@gmail.com
+2025-11-28 21:15:24 - VibeMailing - INFO - Closing browser...
+2025-11-28 21:15:24 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-11-28 21:15:24 - VibeMailing - INFO - Setup completed successfully
+2025-11-28 21:15:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:15:57 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-11-28 21:15:57 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-11-28 21:15:57 - VibeMailing - INFO - Log level: INFO
+2025-11-28 21:15:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:15:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:15:57 - VibeMailing - INFO - VibeMailing Started
+2025-11-28 21:15:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:15:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:15:57 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-11-28 21:15:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:15:57 - VibeMailing - INFO - Campaign mode: semi
+2025-11-28 21:16:09 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-11-28 21:16:20 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-11-28 21:16:20 - VibeMailing - INFO - Selected CSV: tests/sample_contacts.csv
+2025-11-28 21:16:33 - VibeMailing - INFO - Selected template: introduction
+2025-11-28 21:16:33 - VibeMailing - INFO - Using template: introduction
+2025-11-28 21:16:33 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-11-28 21:16:33 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-11-28 21:16:33 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-11-28 21:16:33 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-11-28 21:16:35 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-11-28 21:16:35 - VibeMailing - INFO - Checking login status...
+2025-11-28 21:16:35 - VibeMailing - INFO - Checking Gmail login status...
+2025-11-28 21:16:39 - VibeMailing - INFO - ✓ User is logged in
+2025-11-28 21:16:39 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-11-28 21:16:39 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-11-28 21:16:39 - VibeMailing - INFO - Loading CSV: tests/sample_contacts.csv
+2025-11-28 21:16:39 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-11-28 21:16:39 - VibeMailing - INFO - ✓ Loaded 2 contacts from CSV
+2025-11-28 21:16:39 - VibeMailing - INFO - Loaded 2 contacts from CSV
+2025-11-28 21:16:39 - VibeMailing - INFO - Campaign tracker initialized: 2 total rows, starting at row 0
+2025-11-28 21:16:54 - VibeMailing - INFO - Starting campaign loop...
+2025-11-28 21:16:54 - VibeMailing - INFO - Processing 2 contacts in semi mode
+2025-11-28 21:16:54 - VibeMailing - INFO - 
+============================================================
+2025-11-28 21:16:54 - VibeMailing - INFO - Contact 1/2: shravanrevanna@gmail.com
+2025-11-28 21:16:54 - VibeMailing - INFO - ============================================================
+2025-11-28 21:16:54 - VibeMailing - INFO - Generating email for shravanrevanna@gmail.com
+2025-11-28 21:16:55 - VibeMailing - INFO - ✓ Email generated (LLM) for shravanrevanna@gmail.com
+2025-11-28 21:17:24 - VibeMailing - INFO - User chose to send email to shravanrevanna@gmail.com
+2025-11-28 21:17:24 - VibeMailing - INFO - Sending email to shravanrevanna@gmail.com
+2025-11-28 21:19:26 - VibeMailing - ERROR - To field not found
+2025-11-28 21:19:26 - VibeMailing - ERROR - ✗ Failed to send to shravanrevanna@gmail.com: Failed to fill recipient: shravanrevanna@gmail.com
+2025-11-28 21:19:26 - VibeMailing - ERROR - ✗ Email failed [1/2]: shravanrevanna@gmail.com - Failed to fill recipient: shravanrevanna@gmail.com
+2025-11-28 21:19:26 - VibeMailing - INFO - Applying cooldown: 30.4 seconds
+2025-11-28 21:19:57 - VibeMailing - INFO - 
+============================================================
+2025-11-28 21:19:57 - VibeMailing - INFO - Contact 2/2: shravanrevanna158@gmail.com
+2025-11-28 21:19:57 - VibeMailing - INFO - ============================================================
+2025-11-28 21:19:57 - VibeMailing - INFO - Generating email for shravanrevanna158@gmail.com
+2025-11-28 21:19:57 - VibeMailing - INFO - ✓ Email generated (LLM) for shravanrevanna158@gmail.com
+2025-11-28 21:21:09 - VibeMailing - INFO - User chose to skip email to shravanrevanna158@gmail.com
+2025-11-28 21:21:09 - VibeMailing - INFO - Skipped shravanrevanna158@gmail.com
+2025-11-28 21:21:09 - VibeMailing - INFO - ⊘ Email skipped [2/2]: shravanrevanna158@gmail.com - User skipped
+2025-11-28 21:21:09 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-11-28 21:21:09 - VibeMailing - INFO - Campaign loop completed
+2025-11-28 21:21:09 - VibeMailing - INFO - Campaign completed successfully
+2025-11-28 21:21:09 - VibeMailing - INFO - ✓ Campaign history saved: /Users/shravan/personal-github/vibe-mailing-automation/logs/campaign_history/campaign_test_account_20251128_212109.log
+2025-11-28 21:21:09 - VibeMailing - INFO - Closing browser...
+2025-11-28 21:21:10 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-11-28 21:21:10 - VibeMailing - INFO - ============================================================
+2025-11-28 21:21:10 - VibeMailing - INFO - CAMPAIGN COMPLETED
+2025-11-28 21:21:10 - VibeMailing - INFO - ============================================================
+2025-11-28 21:21:10 - VibeMailing - INFO - Campaign completed: {'total_contacts': 2, 'processed': 2, 'sent': 0, 'failed': 1, 'skipped': 1, 'remaining': 0, 'success_rate': 0.0, 'avg_time_per_email': 135.2, 'total_duration_seconds': 270.4, 'total_duration_minutes': 4.5, 'started_at': '2025-11-28T21:16:39.665634', 'completed_at': '2025-11-28T21:21:10.066680'}
+2025-11-28 21:52:23 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:23 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-11-28 21:52:23 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-11-28 21:52:23 - VibeMailing - INFO - Log level: INFO
+2025-11-28 21:52:23 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:23 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:23 - VibeMailing - INFO - VibeMailing Started
+2025-11-28 21:52:23 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:23 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:23 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-11-28 21:52:23 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:23 - VibeMailing - INFO - Campaign mode: semi
+2025-11-28 21:52:26 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-11-28 21:52:26 - VibeMailing - INFO - Using provided CSV: tests/sample_contacts.csv
+2025-11-28 21:52:28 - VibeMailing - INFO - Selected template: introduction
+2025-11-28 21:52:28 - VibeMailing - INFO - Using template: introduction
+2025-11-28 21:52:28 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-11-28 21:52:28 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-11-28 21:52:28 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-11-28 21:52:28 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-11-28 21:52:30 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-11-28 21:52:30 - VibeMailing - INFO - Checking login status...
+2025-11-28 21:52:30 - VibeMailing - INFO - Checking Gmail login status...
+2025-11-28 21:52:35 - VibeMailing - INFO - ✓ User is logged in
+2025-11-28 21:52:35 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-11-28 21:52:35 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-11-28 21:52:35 - VibeMailing - INFO - Loading CSV: tests/sample_contacts.csv
+2025-11-28 21:52:35 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-11-28 21:52:35 - VibeMailing - INFO - ✓ Loaded 2 contacts from CSV
+2025-11-28 21:52:35 - VibeMailing - INFO - Loaded 2 contacts from CSV
+2025-11-28 21:52:35 - VibeMailing - INFO - Campaign tracker initialized: 2 total rows, starting at row 0
+2025-11-28 21:52:47 - VibeMailing - INFO - Starting campaign loop...
+2025-11-28 21:52:47 - VibeMailing - INFO - Processing 2 contacts in semi mode
+2025-11-28 21:52:47 - VibeMailing - INFO - 
+============================================================
+2025-11-28 21:52:47 - VibeMailing - INFO - Contact 1/2: shravanrevanna@gmail.com
+2025-11-28 21:52:47 - VibeMailing - INFO - ============================================================
+2025-11-28 21:52:47 - VibeMailing - INFO - Generating email for shravanrevanna@gmail.com
+2025-11-28 21:52:49 - VibeMailing - INFO - ✓ Email generated (LLM) for shravanrevanna@gmail.com
+2025-11-28 21:53:02 - VibeMailing - INFO - User chose to send email to shravanrevanna@gmail.com
+2025-11-28 21:53:02 - VibeMailing - INFO - Sending email to shravanrevanna@gmail.com
+2025-11-28 21:53:10 - VibeMailing - INFO - ✓ Email sent successfully to shravanrevanna@gmail.com
+2025-11-28 21:53:10 - VibeMailing - INFO - ✓ Email sent to shravanrevanna@gmail.com
+2025-11-28 21:53:10 - VibeMailing - INFO - ✓ Email sent [1/2]: shravanrevanna@gmail.com - Introduction - Shravan Revanna
+2025-11-28 21:53:10 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-11-28 21:53:10 - VibeMailing - INFO - Applying cooldown: 38.4 seconds
+2025-11-28 21:53:48 - VibeMailing - INFO - 
+============================================================
+2025-11-28 21:53:48 - VibeMailing - INFO - Contact 2/2: shravanrevanna158@gmail.com
+2025-11-28 21:53:48 - VibeMailing - INFO - ============================================================
+2025-11-28 21:53:48 - VibeMailing - INFO - Generating email for shravanrevanna158@gmail.com
+2025-11-28 21:53:49 - VibeMailing - INFO - ✓ Email generated (LLM) for shravanrevanna158@gmail.com
+2025-11-28 21:54:23 - VibeMailing - INFO - User chose to send email to shravanrevanna158@gmail.com
+2025-11-28 21:54:23 - VibeMailing - INFO - Sending email to shravanrevanna158@gmail.com
+2025-11-28 21:54:30 - VibeMailing - INFO - ✓ Email sent successfully to shravanrevanna158@gmail.com
+2025-11-28 21:54:30 - VibeMailing - INFO - ✓ Email sent to shravanrevanna158@gmail.com
+2025-11-28 21:54:30 - VibeMailing - INFO - ✓ Email sent [2/2]: shravanrevanna158@gmail.com - Introduction - Shravan Test
+2025-11-28 21:54:30 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-11-28 21:54:30 - VibeMailing - INFO - Campaign loop completed
+2025-11-28 21:54:30 - VibeMailing - INFO - Campaign completed successfully
+2025-11-28 21:54:30 - VibeMailing - INFO - ✓ Campaign history saved: /Users/shravan/personal-github/vibe-mailing-automation/logs/campaign_history/campaign_test_account_20251128_215430.log
+2025-11-28 21:54:30 - VibeMailing - INFO - Closing browser...
+2025-11-28 21:54:30 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-11-28 21:54:30 - VibeMailing - INFO - ============================================================
+2025-11-28 21:54:30 - VibeMailing - INFO - CAMPAIGN COMPLETED
+2025-11-28 21:54:30 - VibeMailing - INFO - ============================================================
+2025-11-28 21:54:30 - VibeMailing - INFO - Campaign completed: {'total_contacts': 2, 'processed': 2, 'sent': 2, 'failed': 0, 'skipped': 0, 'remaining': 0, 'success_rate': 100.0, 'avg_time_per_email': 57.6, 'total_duration_seconds': 115.3, 'total_duration_minutes': 1.9, 'started_at': '2025-11-28T21:52:35.519789', 'completed_at': '2025-11-28T21:54:30.797086'}

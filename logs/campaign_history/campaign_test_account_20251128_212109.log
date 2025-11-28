@@ -1,0 +1,41 @@
+
+============================================================
+CAMPAIGN SUMMARY
+============================================================
+
+Account:          vibemailingtest@gmail.com
+Template:         introduction
+Mode:             semi
+CSV File:         sample_contacts.csv
+
+Total Contacts:   2
+Processed:        2
+  ✓ Sent:         0
+  ✗ Failed:       1
+  ⊘ Skipped:      1
+Remaining:        0
+
+Success Rate:     0.0%
+Duration:         4.5 minutes
+Avg Time/Email:   135.1 seconds
+
+Started:          2025-11-28T21:16:39.665634
+Completed:        2025-11-28T21:21:09.790960
+
+============================================================
+
+
+Detailed Statistics:
+------------------------------------------------------------
+total_contacts: 2
+processed: 2
+sent: 0
+failed: 1
+skipped: 1
+remaining: 0
+success_rate: 0.0
+avg_time_per_email: 135.1
+total_duration_seconds: 270.1
+total_duration_minutes: 4.5
+started_at: 2025-11-28T21:16:39.665634
+completed_at: 2025-11-28T21:21:09.790980
