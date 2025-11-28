@@ -95,7 +95,7 @@ python main.py campaign
 python main.py campaign --csv contacts.csv
 ```
 
-## =� Usage
+## Usage
 
 ### Commands
 
@@ -135,7 +135,7 @@ python main.py campaign --help
 - Faster for large campaigns
 - Best when you trust your template and LLM output
 
-## � Configuration
+## Configuration
 
 ### settings.yaml
 
