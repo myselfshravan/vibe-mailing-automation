@@ -6,11 +6,15 @@ accounts:
     profile_dir: profile_vibemailingtest
     display_name: "Vibe Mailing Test Account"
 
-# Add more accounts as needed:
-# - id: account2
-#   email: your-email2@gmail.com
-#   profile_dir: profile_email2
-#   display_name: "Secondary Account"
+  - id: alice_gupta
+    email: alicegupta11@gmail.com
+    profile_dir: profile_alice_gupta
+    display_name: "Alice Account"
+  
+  - id: shravan74
+    email: shravanrevanna74@gmail.com
+    profile_dir: profile_shravan_74
+    display_name: "Shravan 74"
 
 # Each account will have its own Chrome profile for session persistence
 # Profile directories are stored in ./profiles/

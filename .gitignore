@@ -34,3 +34,5 @@ Thumbs.db
 
 # chrome
 profiles/
+contacts/
+config/prompts-v2.yaml

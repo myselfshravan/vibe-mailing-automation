@@ -258,6 +258,20 @@ def campaign_loop(
     """
     total = len(contacts)
     cooldown_config = settings['campaign']['cooldown']
+    email_config = settings.get('email', {})
+
+    # Build list of links from config (supports legacy single-link shape)
+    links = email_config.get('links') or []
+    if not links:
+        legacy_link = email_config.get('link') or {}
+        if isinstance(legacy_link, dict) and legacy_link.get('url'):
+            links = [{
+                'text': legacy_link.get('text') or "My Resume",
+                'url': legacy_link.get('url')
+            }]
+
+    # Filter out any entries missing URL
+    links = [link for link in links if link.get('url')]
 
     logger.info(f"Processing {total} contacts in {mode} mode")
 
@@ -288,6 +302,7 @@ def campaign_loop(
                     to=contact['email'],
                     subject=email['subject'],
                     body=email['body'],
+                    links=links,
                     wait_for_user=True  # Wait for user to send manually in browser
                 )
             else:
@@ -298,7 +313,8 @@ def campaign_loop(
                     driver,
                     to=contact['email'],
                     subject=email['subject'],
-                    body=email['body']
+                    body=email['body'],
+                    links=links,
                 )
 
             if success:

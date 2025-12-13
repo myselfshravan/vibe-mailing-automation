@@ -143,7 +143,7 @@ def load_prompts() -> Dict[str, Any]:
     cache_key = "prompts"
 
     if cache_key not in _config_cache:
-        config_path = "config/prompts.yaml"
+        config_path = "config/prompts-v2.yaml"
         config = load_yaml_config(config_path)
         _config_cache[cache_key] = config
 

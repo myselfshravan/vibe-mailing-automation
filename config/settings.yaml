@@ -26,6 +26,16 @@ campaign:
     max_seconds: 45 # Maximum wait between emails
     jitter: true # Add random variation to avoid detection
 
+# Email Content Settings
+email:
+  links:
+    - text: "My Resume" # Anchor text used in Gmail body
+      url: "https://drive.google.com/file/d/1ZnGRvvtWPYmmZn9rDtbcU85cxSTL4uLe/view?usp=sharing" # Link inserted below the email body
+    - test: "Portfolio"
+      url: "https://shravanrevanna.me?s=mail"
+    - text: "LinkedIn"
+      url: "https://www.linkedin.com/in/shravanrevanna"
+
 # Logging
 logging:
   log_file: "./logs/app.log"

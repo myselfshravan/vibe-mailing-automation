@@ -1,0 +1,14 @@
+{
+  "csv_path": "/Users/shravan/personal-github/vibe-mailing-automation/contacts/recruiters.csv",
+  "account_id": "test_account",
+  "account_email": "vibemailingtest@gmail.com",
+  "template_name": "introduction",
+  "mode": "autonomous",
+  "current_row": 17,
+  "total_rows": 195,
+  "sent_count": 17,
+  "failed_count": 0,
+  "started_at": "2025-12-10T21:10:22.537741",
+  "last_updated": "2025-12-10T21:22:49.208129",
+  "metadata": {}
+}

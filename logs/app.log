@@ -259,3 +259,1195 @@
 2025-11-28 23:09:37 - VibeMailing - INFO - Closing browser...
 2025-11-28 23:09:37 - VibeMailing - INFO - ✓ Browser closed successfully
 2025-11-28 23:09:37 - VibeMailing - WARNING - User interrupted program
+2025-12-10 19:35:18 - VibeMailing - INFO - ============================================================
+2025-12-10 19:35:18 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 19:35:18 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 19:35:18 - VibeMailing - INFO - Log level: INFO
+2025-12-10 19:35:18 - VibeMailing - INFO - ============================================================
+2025-12-10 19:35:18 - VibeMailing - INFO - ============================================================
+2025-12-10 19:35:18 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 19:35:18 - VibeMailing - INFO - ============================================================
+2025-12-10 19:35:18 - VibeMailing - INFO - ============================================================
+2025-12-10 19:35:18 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 19:35:18 - VibeMailing - INFO - ============================================================
+2025-12-10 19:35:18 - VibeMailing - INFO - Campaign mode: semi
+2025-12-10 19:35:27 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 19:35:49 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-12-10 19:35:49 - VibeMailing - INFO - Selected CSV: /Users/shravan/personal-github/vibe-mailing-automation/tests/sample_contacts.csv
+2025-12-10 19:36:01 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 19:36:01 - VibeMailing - INFO - Using template: introduction
+2025-12-10 19:36:01 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 19:36:01 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 19:36:01 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:36:01 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:36:07 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 19:36:07 - VibeMailing - INFO - Checking login status...
+2025-12-10 19:36:07 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 19:36:14 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 19:36:14 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 19:36:14 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 19:36:14 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-12-10 19:36:28 - VibeMailing - INFO - User chose to resume campaign
+2025-12-10 19:36:28 - VibeMailing - INFO - Resuming from row 1
+2025-12-10 19:36:28 - VibeMailing - INFO - Loading CSV: /Users/shravan/personal-github/vibe-mailing-automation/tests/sample_contacts.csv
+2025-12-10 19:36:28 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-12-10 19:36:28 - VibeMailing - INFO - ✓ Loaded 2 contacts from CSV
+2025-12-10 19:36:28 - VibeMailing - INFO - Loaded 2 contacts from CSV
+2025-12-10 19:36:28 - VibeMailing - INFO - Processing 1 remaining contacts
+2025-12-10 19:36:28 - VibeMailing - INFO - Campaign tracker initialized: 2 total rows, starting at row 1
+2025-12-10 19:37:37 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 19:37:37 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-12-10 19:37:37 - VibeMailing - INFO - Closing browser...
+2025-12-10 19:37:37 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 19:37:37 - VibeMailing - WARNING - User interrupted program
+2025-12-10 19:37:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:37:47 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 19:37:47 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 19:37:47 - VibeMailing - INFO - Log level: INFO
+2025-12-10 19:37:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:37:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:37:47 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 19:37:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:37:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:37:47 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 19:37:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:37:47 - VibeMailing - INFO - Campaign mode: semi
+2025-12-10 19:37:50 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 19:38:22 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-12-10 19:38:22 - VibeMailing - INFO - Selected CSV: tests/sample_contacts.csv
+2025-12-10 19:38:25 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 19:38:25 - VibeMailing - INFO - Using template: introduction
+2025-12-10 19:38:25 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 19:38:25 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 19:38:25 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:38:25 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:38:26 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 19:38:26 - VibeMailing - INFO - Checking login status...
+2025-12-10 19:38:26 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 19:38:34 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 19:38:34 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 19:38:34 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 19:38:34 - VibeMailing - INFO - Loading CSV: tests/sample_contacts.csv
+2025-12-10 19:38:34 - VibeMailing - INFO - ✓ CSV validation passed: 2 contacts
+2025-12-10 19:38:34 - VibeMailing - INFO - ✓ Loaded 2 contacts from CSV
+2025-12-10 19:38:34 - VibeMailing - INFO - Loaded 2 contacts from CSV
+2025-12-10 19:38:34 - VibeMailing - INFO - Campaign tracker initialized: 2 total rows, starting at row 0
+2025-12-10 19:38:50 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 19:38:50 - VibeMailing - INFO - Processing 2 contacts in semi mode
+2025-12-10 19:38:50 - VibeMailing - INFO - 
+============================================================
+2025-12-10 19:38:50 - VibeMailing - INFO - Contact 1/2: shravanrevanna@gmail.com
+2025-12-10 19:38:50 - VibeMailing - INFO - ============================================================
+2025-12-10 19:38:50 - VibeMailing - INFO - Generating email for shravanrevanna@gmail.com
+2025-12-10 19:38:51 - VibeMailing - INFO - ✓ Email generated (LLM) for shravanrevanna@gmail.com
+2025-12-10 19:38:51 - VibeMailing - INFO - Composing email to shravanrevanna@gmail.com
+2025-12-10 19:38:56 - VibeMailing - INFO - Email composed for shravanrevanna@gmail.com. Waiting for user to send manually...
+2025-12-10 19:39:11 - VibeMailing - INFO - ✓ Email sent by user to shravanrevanna@gmail.com
+2025-12-10 19:39:11 - VibeMailing - INFO - ✓ Email sent to shravanrevanna@gmail.com
+2025-12-10 19:39:11 - VibeMailing - INFO - ✓ Email sent [1/2]: shravanrevanna@gmail.com - Introduction - Shravan Revanna
+2025-12-10 19:39:11 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-12-10 19:39:11 - VibeMailing - INFO - Applying cooldown: 22.3 seconds
+2025-12-10 19:39:33 - VibeMailing - INFO - 
+============================================================
+2025-12-10 19:39:33 - VibeMailing - INFO - Contact 2/2: shravanrevanna158@gmail.com
+2025-12-10 19:39:33 - VibeMailing - INFO - ============================================================
+2025-12-10 19:39:33 - VibeMailing - INFO - Generating email for shravanrevanna158@gmail.com
+2025-12-10 19:39:34 - VibeMailing - INFO - ✓ Email generated (LLM) for shravanrevanna158@gmail.com
+2025-12-10 19:39:34 - VibeMailing - INFO - Composing email to shravanrevanna158@gmail.com
+2025-12-10 19:39:39 - VibeMailing - INFO - Email composed for shravanrevanna158@gmail.com. Waiting for user to send manually...
+2025-12-10 19:39:47 - VibeMailing - INFO - ✓ Email sent by user to shravanrevanna158@gmail.com
+2025-12-10 19:39:47 - VibeMailing - INFO - ✓ Email sent to shravanrevanna158@gmail.com
+2025-12-10 19:39:47 - VibeMailing - INFO - ✓ Email sent [2/2]: shravanrevanna158@gmail.com - Introduction - Shravan Test
+2025-12-10 19:39:47 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_33fa1cb6.json
+2025-12-10 19:39:47 - VibeMailing - INFO - Campaign loop completed
+2025-12-10 19:39:47 - VibeMailing - INFO - Campaign completed successfully
+2025-12-10 19:39:47 - VibeMailing - INFO - ✓ Campaign history saved: /Users/shravan/personal-github/vibe-mailing-automation/logs/campaign_history/campaign_test_account_20251210_193947.log
+2025-12-10 19:39:47 - VibeMailing - INFO - Closing browser...
+2025-12-10 19:39:47 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 19:39:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:39:47 - VibeMailing - INFO - CAMPAIGN COMPLETED
+2025-12-10 19:39:47 - VibeMailing - INFO - ============================================================
+2025-12-10 19:39:47 - VibeMailing - INFO - Campaign completed: {'total_contacts': 2, 'processed': 2, 'sent': 2, 'failed': 0, 'skipped': 0, 'remaining': 0, 'success_rate': 100.0, 'avg_time_per_email': 36.4, 'total_duration_seconds': 72.8, 'total_duration_minutes': 1.2, 'started_at': '2025-12-10T19:38:34.861822', 'completed_at': '2025-12-10T19:39:47.640249'}
+2025-12-10 19:40:30 - VibeMailing - INFO - ============================================================
+2025-12-10 19:40:30 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 19:40:30 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 19:40:30 - VibeMailing - INFO - Log level: INFO
+2025-12-10 19:40:30 - VibeMailing - INFO - ============================================================
+2025-12-10 19:40:30 - VibeMailing - INFO - ============================================================
+2025-12-10 19:40:30 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 19:40:30 - VibeMailing - INFO - ============================================================
+2025-12-10 19:40:37 - VibeMailing - INFO - Account selection cancelled by user
+2025-12-10 19:40:37 - VibeMailing - WARNING - User interrupted program
+2025-12-10 19:41:28 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:28 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 19:41:28 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 19:41:28 - VibeMailing - INFO - Log level: INFO
+2025-12-10 19:41:28 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:28 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:28 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 19:41:28 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:33 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 19:41:33 - VibeMailing - INFO - Starting first-time setup for vibemailingtest@gmail.com
+2025-12-10 19:41:45 - VibeMailing - INFO - User chose to keep existing profile
+2025-12-10 19:41:45 - VibeMailing - INFO - Setup completed successfully
+2025-12-10 19:41:50 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:50 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 19:41:50 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 19:41:50 - VibeMailing - INFO - Log level: INFO
+2025-12-10 19:41:50 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:50 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:50 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 19:41:50 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:54 - VibeMailing - INFO - Account selection cancelled by user
+2025-12-10 19:41:54 - VibeMailing - WARNING - User interrupted program
+2025-12-10 19:41:57 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:57 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 19:41:57 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 19:41:57 - VibeMailing - INFO - Log level: INFO
+2025-12-10 19:41:57 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:57 - VibeMailing - INFO - ============================================================
+2025-12-10 19:41:57 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 19:41:57 - VibeMailing - INFO - ============================================================
+2025-12-10 19:42:01 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 19:42:01 - VibeMailing - INFO - Starting first-time setup for vibemailingtest@gmail.com
+2025-12-10 19:42:07 - VibeMailing - INFO - User chose to delete and recreate profile
+2025-12-10 19:42:07 - VibeMailing - INFO - Deleted existing profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:42:07 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:42:07 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 19:42:08 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 19:42:08 - VibeMailing - INFO - Waiting for user to log in...
+2025-12-10 19:42:08 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 19:43:28 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 19:43:28 - VibeMailing - INFO - ✓ First-time setup completed for vibemailingtest@gmail.com
+2025-12-10 19:43:49 - VibeMailing - INFO - Closing browser...
+2025-12-10 19:43:49 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 19:43:49 - VibeMailing - INFO - Setup completed successfully
+2025-12-10 20:03:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:03:31 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:03:31 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:03:31 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:03:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:03:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:03:31 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:03:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:03:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:03:31 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:03:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:03:31 - VibeMailing - INFO - Campaign mode: semi
+2025-12-10 20:03:34 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:04:29 - VibeMailing - INFO - ✓ CSV validation passed: 202 contacts
+2025-12-10 20:04:29 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 20:04:35 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:04:35 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:04:35 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:04:35 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:04:35 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:04:35 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:04:37 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:04:37 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:04:37 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:04:43 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:04:43 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:04:43 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:04:43 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 20:04:43 - VibeMailing - INFO - ✓ CSV validation passed: 202 contacts
+2025-12-10 20:04:43 - VibeMailing - INFO - ✓ Loaded 202 contacts from CSV
+2025-12-10 20:04:43 - VibeMailing - INFO - Loaded 202 contacts from CSV
+2025-12-10 20:04:43 - VibeMailing - INFO - Campaign tracker initialized: 202 total rows, starting at row 0
+2025-12-10 20:05:08 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 20:05:08 - VibeMailing - INFO - Processing 202 contacts in semi mode
+2025-12-10 20:05:08 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:05:08 - VibeMailing - INFO - Contact 1/202: surbhi.aggarwal@flipkart.com
+2025-12-10 20:05:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:05:08 - VibeMailing - INFO - Generating email for surbhi.aggarwal@flipkart.com
+2025-12-10 20:05:09 - VibeMailing - INFO - ✓ Email generated (LLM) for surbhi.aggarwal@flipkart.com
+2025-12-10 20:05:09 - VibeMailing - INFO - Composing email to surbhi.aggarwal@flipkart.com
+2025-12-10 20:05:14 - VibeMailing - INFO - Email composed for surbhi.aggarwal@flipkart.com. Waiting for user to send manually...
+2025-12-10 20:05:39 - VibeMailing - INFO - ✓ Email sent by user to surbhi.aggarwal@flipkart.com
+2025-12-10 20:05:39 - VibeMailing - INFO - ✓ Email sent to surbhi.aggarwal@flipkart.com
+2025-12-10 20:05:39 - VibeMailing - INFO - ✓ Email sent [1/202]: surbhi.aggarwal@flipkart.com - Request for Suitable Job Opportunity / Referral - Surbhi Aggarwal
+2025-12-10 20:05:39 - VibeMailing - INFO - Applying cooldown: 34.0 seconds
+2025-12-10 20:06:12 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:06:12 - VibeMailing - INFO - Contact 2/202: Tanisha.Raheja@in.ey.com
+2025-12-10 20:06:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:06:12 - VibeMailing - INFO - Generating email for Tanisha.Raheja@in.ey.com
+2025-12-10 20:06:13 - VibeMailing - INFO - ✓ Email generated (LLM) for Tanisha.Raheja@in.ey.com
+2025-12-10 20:06:13 - VibeMailing - INFO - Composing email to Tanisha.Raheja@in.ey.com
+2025-12-10 20:06:19 - VibeMailing - INFO - Email composed for Tanisha.Raheja@in.ey.com. Waiting for user to send manually...
+2025-12-10 20:06:37 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 20:06:37 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:06:37 - VibeMailing - INFO - Closing browser...
+2025-12-10 20:06:37 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 20:06:37 - VibeMailing - WARNING - User interrupted program
+2025-12-10 20:20:16 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:16 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:20:16 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:20:16 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:20:16 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:16 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:16 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:20:16 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:16 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:16 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:20:16 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:16 - VibeMailing - INFO - Campaign mode: semi
+2025-12-10 20:20:17 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:20:27 - VibeMailing - INFO - ✓ CSV validation passed: 200 contacts
+2025-12-10 20:20:27 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 20:20:32 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:20:32 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:20:32 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:20:32 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:20:32 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:20:32 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:20:34 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:20:34 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:20:34 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:20:39 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:20:39 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:20:39 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:20:39 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 20:20:39 - VibeMailing - INFO - ✓ CSV validation passed: 200 contacts
+2025-12-10 20:20:39 - VibeMailing - INFO - ✓ Loaded 200 contacts from CSV
+2025-12-10 20:20:39 - VibeMailing - INFO - Loaded 200 contacts from CSV
+2025-12-10 20:20:39 - VibeMailing - INFO - Campaign tracker initialized: 200 total rows, starting at row 0
+2025-12-10 20:20:42 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 20:20:42 - VibeMailing - INFO - Processing 200 contacts in semi mode
+2025-12-10 20:20:42 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:20:42 - VibeMailing - INFO - Contact 1/200: Abhijeet.mittal@mooo.farm
+2025-12-10 20:20:42 - VibeMailing - INFO - ============================================================
+2025-12-10 20:20:42 - VibeMailing - INFO - Generating email for Abhijeet.mittal@mooo.farm
+2025-12-10 20:20:43 - VibeMailing - INFO - ✓ Email generated (LLM) for Abhijeet.mittal@mooo.farm
+2025-12-10 20:20:43 - VibeMailing - INFO - Composing email to Abhijeet.mittal@mooo.farm
+2025-12-10 20:20:47 - VibeMailing - ERROR - Error filling body: Message: javascript error: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+  (Session info: chrome=143.0.7499.41)
+Stacktrace:
+0   chromedriver                        0x0000000104666e10 cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x000000010465ecd0 cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x000000010415ab1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001041609dc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 98452
+4   chromedriver                        0x0000000104162d7c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 107572
+5   chromedriver                        0x00000001041e38d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 634768
+6   chromedriver                        0x00000001041e2978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+7   chromedriver                        0x000000010419617c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+8   chromedriver                        0x000000010462b360 cxxbridge1$str$ptr + 2783612
+9   chromedriver                        0x000000010462eac4 cxxbridge1$str$ptr + 2797792
+10  chromedriver                        0x000000010460b5f4 cxxbridge1$str$ptr + 2653200
+11  chromedriver                        0x000000010462f334 cxxbridge1$str$ptr + 2799952
+12  chromedriver                        0x00000001045fbfc4 cxxbridge1$str$ptr + 2590176
+13  chromedriver                        0x000000010464e24c cxxbridge1$str$ptr + 2926696
+14  chromedriver                        0x000000010464e3cc cxxbridge1$str$ptr + 2927080
+15  chromedriver                        0x000000010465e928 cxxbridge1$str$ptr + 2993988
+16  libsystem_pthread.dylib             0x0000000191251c08 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000019124cba8 thread_start + 8
+
+2025-12-10 20:20:47 - VibeMailing - ERROR - ✗ Failed to send to Abhijeet.mittal@mooo.farm: Failed to fill body
+2025-12-10 20:20:47 - VibeMailing - ERROR - ✗ Email failed [1/200]: Abhijeet.mittal@mooo.farm - Failed to fill body
+2025-12-10 20:20:47 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:20:47 - VibeMailing - INFO - Applying cooldown: 26.5 seconds
+2025-12-10 20:21:13 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:21:13 - VibeMailing - INFO - Contact 2/200: ashwinna@amazon.com
+2025-12-10 20:21:13 - VibeMailing - INFO - ============================================================
+2025-12-10 20:21:13 - VibeMailing - INFO - Generating email for ashwinna@amazon.com
+2025-12-10 20:21:14 - VibeMailing - INFO - ✓ Email generated (LLM) for ashwinna@amazon.com
+2025-12-10 20:21:14 - VibeMailing - INFO - Composing email to ashwinna@amazon.com
+2025-12-10 20:21:42 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 20:21:42 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:21:42 - VibeMailing - INFO - Closing browser...
+2025-12-10 20:21:42 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 20:21:42 - VibeMailing - WARNING - User interrupted program
+2025-12-10 20:23:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:26 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:23:26 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:23:26 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:23:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:26 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:23:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:26 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:23:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:26 - VibeMailing - INFO - Campaign mode: semi
+2025-12-10 20:23:27 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:23:44 - VibeMailing - INFO - ✓ CSV validation passed: 200 contacts
+2025-12-10 20:23:44 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 20:23:47 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:23:47 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:23:47 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:23:47 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:23:47 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:23:47 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:23:48 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:23:48 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:23:48 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:23:53 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:23:53 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:23:53 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:23:53 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 20:23:53 - VibeMailing - INFO - ✓ CSV validation passed: 200 contacts
+2025-12-10 20:23:53 - VibeMailing - INFO - ✓ Loaded 200 contacts from CSV
+2025-12-10 20:23:53 - VibeMailing - INFO - Loaded 200 contacts from CSV
+2025-12-10 20:23:53 - VibeMailing - INFO - Campaign tracker initialized: 200 total rows, starting at row 0
+2025-12-10 20:23:57 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 20:23:57 - VibeMailing - INFO - Processing 200 contacts in semi mode
+2025-12-10 20:23:57 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:23:57 - VibeMailing - INFO - Contact 1/200: Abhijeet.mittal@mooo.farm
+2025-12-10 20:23:57 - VibeMailing - INFO - ============================================================
+2025-12-10 20:23:57 - VibeMailing - INFO - Generating email for Abhijeet.mittal@mooo.farm
+2025-12-10 20:23:58 - VibeMailing - INFO - ✓ Email generated (LLM) for Abhijeet.mittal@mooo.farm
+2025-12-10 20:23:58 - VibeMailing - INFO - Composing email to Abhijeet.mittal@mooo.farm
+2025-12-10 20:24:03 - VibeMailing - INFO - Email composed for Abhijeet.mittal@mooo.farm. Waiting for user to send manually...
+2025-12-10 20:24:21 - VibeMailing - INFO - ✓ Email sent by user to Abhijeet.mittal@mooo.farm
+2025-12-10 20:24:21 - VibeMailing - INFO - ✓ Email sent to Abhijeet.mittal@mooo.farm
+2025-12-10 20:24:21 - VibeMailing - INFO - ✓ Email sent [1/200]: Abhijeet.mittal@mooo.farm - Request for Suitable Job Opportunity / Referral - Abhijeet Mittal
+2025-12-10 20:24:21 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:24:21 - VibeMailing - INFO - Applying cooldown: 20.0 seconds
+2025-12-10 20:24:41 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:24:41 - VibeMailing - INFO - Contact 2/200: ashwinna@amazon.com
+2025-12-10 20:24:41 - VibeMailing - INFO - ============================================================
+2025-12-10 20:24:41 - VibeMailing - INFO - Generating email for ashwinna@amazon.com
+2025-12-10 20:24:42 - VibeMailing - INFO - ✓ Email generated (LLM) for ashwinna@amazon.com
+2025-12-10 20:24:42 - VibeMailing - INFO - Composing email to ashwinna@amazon.com
+2025-12-10 20:24:46 - VibeMailing - INFO - Email composed for ashwinna@amazon.com. Waiting for user to send manually...
+2025-12-10 20:25:06 - VibeMailing - INFO - ✓ Email sent by user to ashwinna@amazon.com
+2025-12-10 20:25:06 - VibeMailing - INFO - ✓ Email sent to ashwinna@amazon.com
+2025-12-10 20:25:06 - VibeMailing - INFO - ✓ Email sent [2/200]: ashwinna@amazon.com - Request for Suitable Job Opportunity / Referral - Ashwini Maheswaran
+2025-12-10 20:25:06 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:25:06 - VibeMailing - INFO - Applying cooldown: 38.7 seconds
+2025-12-10 20:25:44 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:25:44 - VibeMailing - INFO - Contact 3/200: rokuma@microsoft.com
+2025-12-10 20:25:44 - VibeMailing - INFO - ============================================================
+2025-12-10 20:25:44 - VibeMailing - INFO - Generating email for rokuma@microsoft.com
+2025-12-10 20:25:45 - VibeMailing - INFO - ✓ Email generated (LLM) for rokuma@microsoft.com
+2025-12-10 20:25:45 - VibeMailing - INFO - Composing email to rokuma@microsoft.com
+2025-12-10 20:25:50 - VibeMailing - INFO - Email composed for rokuma@microsoft.com. Waiting for user to send manually...
+2025-12-10 20:26:04 - VibeMailing - INFO - ✓ Email sent by user to rokuma@microsoft.com
+2025-12-10 20:26:04 - VibeMailing - INFO - ✓ Email sent to rokuma@microsoft.com
+2025-12-10 20:26:04 - VibeMailing - INFO - ✓ Email sent [3/200]: rokuma@microsoft.com - Request for Suitable Job Opportunity / Referral - Rohit Kumar
+2025-12-10 20:26:04 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:26:04 - VibeMailing - INFO - Applying cooldown: 36.9 seconds
+2025-12-10 20:26:40 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:26:40 - VibeMailing - INFO - Contact 4/200: shafaq.irfan@pentaexpress.com
+2025-12-10 20:26:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:26:40 - VibeMailing - INFO - Generating email for shafaq.irfan@pentaexpress.com
+2025-12-10 20:26:41 - VibeMailing - INFO - ✓ Email generated (LLM) for shafaq.irfan@pentaexpress.com
+2025-12-10 20:26:41 - VibeMailing - INFO - Composing email to shafaq.irfan@pentaexpress.com
+2025-12-10 20:26:46 - VibeMailing - INFO - Email composed for shafaq.irfan@pentaexpress.com. Waiting for user to send manually...
+2025-12-10 20:26:58 - VibeMailing - INFO - ✓ Email sent by user to shafaq.irfan@pentaexpress.com
+2025-12-10 20:26:58 - VibeMailing - INFO - ✓ Email sent to shafaq.irfan@pentaexpress.com
+2025-12-10 20:26:58 - VibeMailing - INFO - ✓ Email sent [4/200]: shafaq.irfan@pentaexpress.com - Request for Suitable Job Opportunity / Referral - Shafaq Irfan
+2025-12-10 20:26:58 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:26:58 - VibeMailing - INFO - Applying cooldown: 34.6 seconds
+2025-12-10 20:27:05 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 20:27:05 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:27:05 - VibeMailing - INFO - Closing browser...
+2025-12-10 20:27:05 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 20:27:05 - VibeMailing - WARNING - User interrupted program
+2025-12-10 20:48:49 - VibeMailing - INFO - ============================================================
+2025-12-10 20:48:49 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:48:49 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:48:49 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:48:49 - VibeMailing - INFO - ============================================================
+2025-12-10 20:48:49 - VibeMailing - INFO - ============================================================
+2025-12-10 20:48:49 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:48:49 - VibeMailing - INFO - ============================================================
+2025-12-10 20:48:49 - VibeMailing - INFO - ============================================================
+2025-12-10 20:48:49 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:48:49 - VibeMailing - INFO - ============================================================
+2025-12-10 20:48:49 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 20:48:53 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:49:06 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-10 20:49:06 - VibeMailing - INFO - Selected CSV: contacts/hrs.csv
+2025-12-10 20:49:09 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:49:09 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:49:09 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:49:09 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:49:09 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:49:09 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:49:11 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:49:11 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:49:11 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:49:17 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:49:17 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:49:17 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:49:17 - VibeMailing - INFO - Loading CSV: contacts/hrs.csv
+2025-12-10 20:49:17 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-10 20:49:17 - VibeMailing - INFO - ✓ Loaded 1842 contacts from CSV
+2025-12-10 20:49:17 - VibeMailing - INFO - Loaded 1842 contacts from CSV
+2025-12-10 20:49:17 - VibeMailing - INFO - Campaign tracker initialized: 1842 total rows, starting at row 0
+2025-12-10 20:49:20 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 20:49:20 - VibeMailing - INFO - Processing 1842 contacts in autonomous mode
+2025-12-10 20:49:20 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:49:20 - VibeMailing - INFO - Contact 1/1842: akanksha.puri@sourcefuse.com
+2025-12-10 20:49:20 - VibeMailing - INFO - ============================================================
+2025-12-10 20:49:20 - VibeMailing - INFO - Generating email for akanksha.puri@sourcefuse.com
+2025-12-10 20:49:21 - VibeMailing - INFO - ✓ Email generated (LLM) for akanksha.puri@sourcefuse.com
+2025-12-10 20:49:21 - VibeMailing - INFO - Composing email to akanksha.puri@sourcefuse.com
+2025-12-10 20:50:58 - VibeMailing - ERROR - Gmail error detected: 
+2025-12-10 20:50:58 - VibeMailing - ERROR - ✗ Failed to send to akanksha.puri@sourcefuse.com: Email may not have sent (no confirmation)
+2025-12-10 20:50:58 - VibeMailing - ERROR - ✗ Email failed [1/1842]: akanksha.puri@sourcefuse.com - Email may not have sent (no confirmation)
+2025-12-10 20:50:58 - VibeMailing - INFO - Applying cooldown: 28.1 seconds
+2025-12-10 20:51:26 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:51:26 - VibeMailing - INFO - Contact 2/1842: akanksha.sogani@perennialsys.com
+2025-12-10 20:51:26 - VibeMailing - INFO - ============================================================
+2025-12-10 20:51:26 - VibeMailing - INFO - Generating email for akanksha.sogani@perennialsys.com
+2025-12-10 20:51:27 - VibeMailing - INFO - ✓ Email generated (LLM) for akanksha.sogani@perennialsys.com
+2025-12-10 20:51:27 - VibeMailing - INFO - Composing email to akanksha.sogani@perennialsys.com
+2025-12-10 20:52:00 - VibeMailing - ERROR - Error filling recipient: Message: element not interactable
+  (Session info: chrome=143.0.7499.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+0   chromedriver                        0x0000000105386e10 cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x000000010537ecd0 cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x0000000104e7a980 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73784
+3   chromedriver                        0x0000000104eb998c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 331844
+4   chromedriver                        0x0000000104eb7758 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 323088
+5   chromedriver                        0x0000000104f02978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+6   chromedriver                        0x0000000104eb617c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+7   chromedriver                        0x000000010534b360 cxxbridge1$str$ptr + 2783612
+8   chromedriver                        0x000000010534eac4 cxxbridge1$str$ptr + 2797792
+9   chromedriver                        0x000000010532b5f4 cxxbridge1$str$ptr + 2653200
+10  chromedriver                        0x000000010534f334 cxxbridge1$str$ptr + 2799952
+11  chromedriver                        0x000000010531bfc4 cxxbridge1$str$ptr + 2590176
+12  chromedriver                        0x000000010536e24c cxxbridge1$str$ptr + 2926696
+13  chromedriver                        0x000000010536e3cc cxxbridge1$str$ptr + 2927080
+14  chromedriver                        0x000000010537e928 cxxbridge1$str$ptr + 2993988
+15  libsystem_pthread.dylib             0x0000000191251c08 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019124cba8 thread_start + 8
+
+2025-12-10 20:52:00 - VibeMailing - ERROR - ✗ Failed to send to akanksha.sogani@perennialsys.com: Failed to fill recipient: akanksha.sogani@perennialsys.com
+2025-12-10 20:52:00 - VibeMailing - ERROR - ✗ Email failed [2/1842]: akanksha.sogani@perennialsys.com - Failed to fill recipient: akanksha.sogani@perennialsys.com
+2025-12-10 20:52:00 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_1622ef74.json
+2025-12-10 20:52:00 - VibeMailing - INFO - Applying cooldown: 21.3 seconds
+2025-12-10 20:52:21 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:52:21 - VibeMailing - INFO - Contact 3/1842: akhil@ibhubs.co
+2025-12-10 20:52:21 - VibeMailing - INFO - ============================================================
+2025-12-10 20:52:21 - VibeMailing - INFO - Generating email for akhil@ibhubs.co
+2025-12-10 20:52:22 - VibeMailing - INFO - ✓ Email generated (LLM) for akhil@ibhubs.co
+2025-12-10 20:52:22 - VibeMailing - INFO - Composing email to akhil@ibhubs.co
+2025-12-10 20:52:52 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 20:52:52 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_1622ef74.json
+2025-12-10 20:52:52 - VibeMailing - INFO - Closing browser...
+2025-12-10 20:52:52 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 20:52:52 - VibeMailing - WARNING - User interrupted program
+2025-12-10 20:54:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:08 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:54:08 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:54:08 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:54:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:08 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:54:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:08 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:54:08 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:08 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 20:54:10 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:54:18 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-10 20:54:18 - VibeMailing - INFO - Selected CSV: contacts/hrs.csv
+2025-12-10 20:54:21 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:54:21 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:54:21 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:54:21 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:54:21 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:54:21 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:54:22 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:54:22 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:54:22 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:54:28 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:54:28 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:54:28 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:54:28 - VibeMailing - INFO - Loading CSV: contacts/hrs.csv
+2025-12-10 20:54:28 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-10 20:54:28 - VibeMailing - INFO - ✓ Loaded 1842 contacts from CSV
+2025-12-10 20:54:28 - VibeMailing - INFO - Loaded 1842 contacts from CSV
+2025-12-10 20:54:28 - VibeMailing - INFO - Campaign tracker initialized: 1842 total rows, starting at row 0
+2025-12-10 20:54:39 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 20:54:39 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_1622ef74.json
+2025-12-10 20:54:39 - VibeMailing - INFO - Closing browser...
+2025-12-10 20:54:39 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 20:54:39 - VibeMailing - WARNING - User interrupted program
+2025-12-10 20:54:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:40 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:54:40 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:54:40 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:54:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:40 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:54:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:40 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:54:40 - VibeMailing - INFO - ============================================================
+2025-12-10 20:54:40 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 20:54:42 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:54:49 - VibeMailing - INFO - ✓ CSV validation passed: 200 contacts
+2025-12-10 20:54:49 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 20:54:50 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:54:50 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:54:50 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:54:50 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:54:50 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:54:50 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:54:51 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:54:51 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:54:51 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:54:56 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:54:56 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:54:56 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:54:56 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 20:54:56 - VibeMailing - INFO - ✓ CSV validation passed: 200 contacts
+2025-12-10 20:54:56 - VibeMailing - INFO - ✓ Loaded 200 contacts from CSV
+2025-12-10 20:54:56 - VibeMailing - INFO - Loaded 200 contacts from CSV
+2025-12-10 20:54:56 - VibeMailing - INFO - Campaign tracker initialized: 200 total rows, starting at row 0
+2025-12-10 20:55:10 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 20:55:10 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:55:10 - VibeMailing - INFO - Closing browser...
+2025-12-10 20:55:10 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 20:55:10 - VibeMailing - WARNING - User interrupted program
+2025-12-10 20:55:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:12 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 20:55:12 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 20:55:12 - VibeMailing - INFO - Log level: INFO
+2025-12-10 20:55:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:12 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 20:55:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:12 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 20:55:12 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:12 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 20:55:14 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 20:55:19 - VibeMailing - INFO - ✓ CSV validation passed: 196 contacts
+2025-12-10 20:55:19 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 20:55:22 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 20:55:22 - VibeMailing - INFO - Using template: introduction
+2025-12-10 20:55:22 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 20:55:22 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 20:55:22 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:55:22 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 20:55:23 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 20:55:23 - VibeMailing - INFO - Checking login status...
+2025-12-10 20:55:23 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 20:55:29 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 20:55:29 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 20:55:29 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 20:55:29 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 20:55:29 - VibeMailing - INFO - ✓ CSV validation passed: 196 contacts
+2025-12-10 20:55:29 - VibeMailing - INFO - ✓ Loaded 196 contacts from CSV
+2025-12-10 20:55:29 - VibeMailing - INFO - Loaded 196 contacts from CSV
+2025-12-10 20:55:29 - VibeMailing - INFO - Campaign tracker initialized: 196 total rows, starting at row 0
+2025-12-10 20:55:31 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 20:55:31 - VibeMailing - INFO - Processing 196 contacts in autonomous mode
+2025-12-10 20:55:31 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:55:31 - VibeMailing - INFO - Contact 1/196: snehaprabha.das@himflax.com
+2025-12-10 20:55:31 - VibeMailing - INFO - ============================================================
+2025-12-10 20:55:31 - VibeMailing - INFO - Generating email for snehaprabha.das@himflax.com
+2025-12-10 20:55:32 - VibeMailing - INFO - ✓ Email generated (LLM) for snehaprabha.das@himflax.com
+2025-12-10 20:55:32 - VibeMailing - INFO - Composing email to snehaprabha.das@himflax.com
+2025-12-10 20:58:40 - VibeMailing - ERROR - Gmail error detected: 
+2025-12-10 20:58:40 - VibeMailing - ERROR - ✗ Failed to send to snehaprabha.das@himflax.com: Email may not have sent (no confirmation)
+2025-12-10 20:58:40 - VibeMailing - ERROR - ✗ Email failed [1/196]: snehaprabha.das@himflax.com - Email may not have sent (no confirmation)
+2025-12-10 20:58:40 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:58:40 - VibeMailing - INFO - Applying cooldown: 27.2 seconds
+2025-12-10 20:59:07 - VibeMailing - INFO - 
+============================================================
+2025-12-10 20:59:07 - VibeMailing - INFO - Contact 2/196: rajesh.qxzy@ril.com
+2025-12-10 20:59:07 - VibeMailing - INFO - ============================================================
+2025-12-10 20:59:07 - VibeMailing - INFO - Generating email for rajesh.qxzy@ril.com
+2025-12-10 20:59:08 - VibeMailing - INFO - ✓ Email generated (LLM) for rajesh.qxzy@ril.com
+2025-12-10 20:59:08 - VibeMailing - INFO - Composing email to rajesh.qxzy@ril.com
+2025-12-10 20:59:40 - VibeMailing - ERROR - Error filling recipient: Message: element not interactable
+  (Session info: chrome=143.0.7499.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+0   chromedriver                        0x000000010060ae10 cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x0000000100602cd0 cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x00000001000fe980 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73784
+3   chromedriver                        0x000000010013d98c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 331844
+4   chromedriver                        0x000000010013b758 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 323088
+5   chromedriver                        0x0000000100186978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+6   chromedriver                        0x000000010013a17c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+7   chromedriver                        0x00000001005cf360 cxxbridge1$str$ptr + 2783612
+8   chromedriver                        0x00000001005d2ac4 cxxbridge1$str$ptr + 2797792
+9   chromedriver                        0x00000001005af5f4 cxxbridge1$str$ptr + 2653200
+10  chromedriver                        0x00000001005d3334 cxxbridge1$str$ptr + 2799952
+11  chromedriver                        0x000000010059ffc4 cxxbridge1$str$ptr + 2590176
+12  chromedriver                        0x00000001005f224c cxxbridge1$str$ptr + 2926696
+13  chromedriver                        0x00000001005f23cc cxxbridge1$str$ptr + 2927080
+14  chromedriver                        0x0000000100602928 cxxbridge1$str$ptr + 2993988
+15  libsystem_pthread.dylib             0x0000000191251c08 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019124cba8 thread_start + 8
+
+2025-12-10 20:59:40 - VibeMailing - ERROR - ✗ Failed to send to rajesh.qxzy@ril.com: Failed to fill recipient: rajesh.qxzy@ril.com
+2025-12-10 20:59:40 - VibeMailing - ERROR - ✗ Email failed [2/196]: rajesh.qxzy@ril.com - Failed to fill recipient: rajesh.qxzy@ril.com
+2025-12-10 20:59:40 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 20:59:40 - VibeMailing - INFO - Applying cooldown: 44.5 seconds
+2025-12-10 21:00:24 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:00:24 - VibeMailing - INFO - Contact 3/196: harish.koul@bharatpe.com
+2025-12-10 21:00:24 - VibeMailing - INFO - ============================================================
+2025-12-10 21:00:24 - VibeMailing - INFO - Generating email for harish.koul@bharatpe.com
+2025-12-10 21:00:25 - VibeMailing - INFO - ✓ Email generated (LLM) for harish.koul@bharatpe.com
+2025-12-10 21:00:25 - VibeMailing - INFO - Composing email to harish.koul@bharatpe.com
+2025-12-10 21:03:33 - VibeMailing - ERROR - Gmail error detected: 
+2025-12-10 21:03:33 - VibeMailing - ERROR - ✗ Failed to send to harish.koul@bharatpe.com: Email may not have sent (no confirmation)
+2025-12-10 21:03:33 - VibeMailing - ERROR - ✗ Email failed [3/196]: harish.koul@bharatpe.com - Email may not have sent (no confirmation)
+2025-12-10 21:03:33 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:03:33 - VibeMailing - INFO - Applying cooldown: 20.0 seconds
+2025-12-10 21:03:48 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 21:03:48 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:03:48 - VibeMailing - INFO - Closing browser...
+2025-12-10 21:03:48 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 21:03:48 - VibeMailing - WARNING - User interrupted program
+2025-12-10 21:04:33 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:33 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 21:04:33 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 21:04:33 - VibeMailing - INFO - Log level: INFO
+2025-12-10 21:04:33 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:33 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:33 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 21:04:33 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:33 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:33 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 21:04:33 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:33 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 21:04:35 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 21:04:42 - VibeMailing - INFO - ✓ CSV validation passed: 196 contacts
+2025-12-10 21:04:42 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 21:04:44 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 21:04:44 - VibeMailing - INFO - Using template: introduction
+2025-12-10 21:04:44 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 21:04:44 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 21:04:44 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 21:04:44 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 21:04:46 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 21:04:46 - VibeMailing - INFO - Checking login status...
+2025-12-10 21:04:46 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 21:04:51 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 21:04:51 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 21:04:51 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 21:04:51 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 21:04:51 - VibeMailing - INFO - ✓ CSV validation passed: 196 contacts
+2025-12-10 21:04:51 - VibeMailing - INFO - ✓ Loaded 196 contacts from CSV
+2025-12-10 21:04:51 - VibeMailing - INFO - Loaded 196 contacts from CSV
+2025-12-10 21:04:51 - VibeMailing - INFO - Campaign tracker initialized: 196 total rows, starting at row 0
+2025-12-10 21:04:54 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 21:04:54 - VibeMailing - INFO - Processing 196 contacts in autonomous mode
+2025-12-10 21:04:54 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:04:54 - VibeMailing - INFO - Contact 1/196: snehaprabha.das@himflax.com
+2025-12-10 21:04:54 - VibeMailing - INFO - ============================================================
+2025-12-10 21:04:54 - VibeMailing - INFO - Generating email for snehaprabha.das@himflax.com
+2025-12-10 21:04:55 - VibeMailing - INFO - ✓ Email generated (LLM) for snehaprabha.das@himflax.com
+2025-12-10 21:04:55 - VibeMailing - INFO - Composing email to snehaprabha.das@himflax.com
+2025-12-10 21:04:55 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:04:57 - VibeMailing - INFO -   → Filling recipient: snehaprabha.das@himflax.com
+2025-12-10 21:04:58 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:04:58 - VibeMailing - INFO -   → Filling body (1107 chars)...
+2025-12-10 21:05:00 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:05:31 - VibeMailing - INFO - ✓ Email sent successfully to snehaprabha.das@himflax.com
+2025-12-10 21:05:31 - VibeMailing - INFO - ✓ Email sent to snehaprabha.das@himflax.com
+2025-12-10 21:05:31 - VibeMailing - INFO - ✓ Email sent [1/196]: snehaprabha.das@himflax.com - Request for Suitable Job Opportunity / Referral - Sneha Prabha Das
+2025-12-10 21:05:31 - VibeMailing - INFO - Applying cooldown: 20.0 seconds
+2025-12-10 21:05:51 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:05:51 - VibeMailing - INFO - Contact 2/196: rajesh.qxzy@ril.com
+2025-12-10 21:05:51 - VibeMailing - INFO - ============================================================
+2025-12-10 21:05:51 - VibeMailing - INFO - Generating email for rajesh.qxzy@ril.com
+2025-12-10 21:05:52 - VibeMailing - INFO - ✓ Email generated (LLM) for rajesh.qxzy@ril.com
+2025-12-10 21:05:52 - VibeMailing - INFO - Composing email to rajesh.qxzy@ril.com
+2025-12-10 21:05:52 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:05:54 - VibeMailing - INFO -   → Filling recipient: rajesh.qxzy@ril.com
+2025-12-10 21:05:55 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:05:56 - VibeMailing - INFO -   → Filling body (1091 chars)...
+2025-12-10 21:05:57 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:06:43 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 21:06:43 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:06:43 - VibeMailing - INFO - Closing browser...
+2025-12-10 21:06:43 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 21:06:43 - VibeMailing - WARNING - User interrupted program
+2025-12-10 21:07:49 - VibeMailing - INFO - ============================================================
+2025-12-10 21:07:49 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 21:07:49 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 21:07:49 - VibeMailing - INFO - Log level: INFO
+2025-12-10 21:07:49 - VibeMailing - INFO - ============================================================
+2025-12-10 21:07:49 - VibeMailing - INFO - ============================================================
+2025-12-10 21:07:49 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 21:07:49 - VibeMailing - INFO - ============================================================
+2025-12-10 21:07:49 - VibeMailing - INFO - ============================================================
+2025-12-10 21:07:49 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 21:07:49 - VibeMailing - INFO - ============================================================
+2025-12-10 21:07:49 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 21:07:50 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 21:07:58 - VibeMailing - INFO - ✓ CSV validation passed: 195 contacts
+2025-12-10 21:07:58 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 21:08:00 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 21:08:00 - VibeMailing - INFO - Using template: introduction
+2025-12-10 21:08:00 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 21:08:00 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 21:08:00 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 21:08:00 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 21:08:02 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 21:08:02 - VibeMailing - INFO - Checking login status...
+2025-12-10 21:08:02 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 21:08:07 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 21:08:07 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 21:08:07 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 21:08:07 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 21:08:07 - VibeMailing - INFO - ✓ CSV validation passed: 195 contacts
+2025-12-10 21:08:07 - VibeMailing - INFO - ✓ Loaded 195 contacts from CSV
+2025-12-10 21:08:07 - VibeMailing - INFO - Loaded 195 contacts from CSV
+2025-12-10 21:08:07 - VibeMailing - INFO - Campaign tracker initialized: 195 total rows, starting at row 0
+2025-12-10 21:08:09 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 21:08:09 - VibeMailing - INFO - Processing 195 contacts in autonomous mode
+2025-12-10 21:08:09 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:08:09 - VibeMailing - INFO - Contact 1/195: rajesh.qxzy@ril.com
+2025-12-10 21:08:09 - VibeMailing - INFO - ============================================================
+2025-12-10 21:08:09 - VibeMailing - INFO - Generating email for rajesh.qxzy@ril.com
+2025-12-10 21:08:10 - VibeMailing - INFO - ✓ Email generated (LLM) for rajesh.qxzy@ril.com
+2025-12-10 21:08:10 - VibeMailing - INFO - Composing email to rajesh.qxzy@ril.com
+2025-12-10 21:08:10 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:08:12 - VibeMailing - INFO -   → Filling recipient: rajesh.qxzy@ril.com
+2025-12-10 21:08:13 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:08:13 - VibeMailing - INFO -   → Filling body (1074 chars)...
+2025-12-10 21:08:15 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:10:00 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 21:10:00 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:10:00 - VibeMailing - INFO - Closing browser...
+2025-12-10 21:10:00 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 21:10:00 - VibeMailing - WARNING - User interrupted program
+2025-12-10 21:10:06 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:06 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-10 21:10:06 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-10 21:10:06 - VibeMailing - INFO - Log level: INFO
+2025-12-10 21:10:06 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:06 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:06 - VibeMailing - INFO - VibeMailing Started
+2025-12-10 21:10:06 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:06 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:06 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-10 21:10:06 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:06 - VibeMailing - INFO - Campaign mode: autonomous
+2025-12-10 21:10:08 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-10 21:10:14 - VibeMailing - INFO - ✓ CSV validation passed: 195 contacts
+2025-12-10 21:10:14 - VibeMailing - INFO - Selected CSV: contacts/recruiters.csv
+2025-12-10 21:10:16 - VibeMailing - INFO - Selected template: introduction
+2025-12-10 21:10:16 - VibeMailing - INFO - Using template: introduction
+2025-12-10 21:10:16 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-10 21:10:16 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-10 21:10:16 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 21:10:16 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-10 21:10:17 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-10 21:10:17 - VibeMailing - INFO - Checking login status...
+2025-12-10 21:10:17 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-10 21:10:22 - VibeMailing - INFO - ✓ User is logged in
+2025-12-10 21:10:22 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-10 21:10:22 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-10 21:10:22 - VibeMailing - INFO - Loading CSV: contacts/recruiters.csv
+2025-12-10 21:10:22 - VibeMailing - INFO - ✓ CSV validation passed: 195 contacts
+2025-12-10 21:10:22 - VibeMailing - INFO - ✓ Loaded 195 contacts from CSV
+2025-12-10 21:10:22 - VibeMailing - INFO - Loaded 195 contacts from CSV
+2025-12-10 21:10:22 - VibeMailing - INFO - Campaign tracker initialized: 195 total rows, starting at row 0
+2025-12-10 21:10:23 - VibeMailing - INFO - Starting campaign loop...
+2025-12-10 21:10:23 - VibeMailing - INFO - Processing 195 contacts in autonomous mode
+2025-12-10 21:10:23 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:10:23 - VibeMailing - INFO - Contact 1/195: rajesh.qxzy@ril.com
+2025-12-10 21:10:23 - VibeMailing - INFO - ============================================================
+2025-12-10 21:10:23 - VibeMailing - INFO - Generating email for rajesh.qxzy@ril.com
+2025-12-10 21:10:24 - VibeMailing - INFO - ✓ Email generated (LLM) for rajesh.qxzy@ril.com
+2025-12-10 21:10:24 - VibeMailing - INFO - Composing email to rajesh.qxzy@ril.com
+2025-12-10 21:10:24 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:10:26 - VibeMailing - INFO -   → Filling recipient: rajesh.qxzy@ril.com
+2025-12-10 21:10:27 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:10:28 - VibeMailing - INFO -   → Filling body (994 chars)...
+2025-12-10 21:10:29 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:10:33 - VibeMailing - INFO - ✓ Email sent successfully to rajesh.qxzy@ril.com
+2025-12-10 21:10:33 - VibeMailing - INFO - ✓ Email sent to rajesh.qxzy@ril.com
+2025-12-10 21:10:33 - VibeMailing - INFO - ✓ Email sent [1/195]: rajesh.qxzy@ril.com - Request for Suitable Job Opportunity / Referral - Rajesh Qxzy
+2025-12-10 21:10:33 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:10:33 - VibeMailing - INFO - Applying cooldown: 37.5 seconds
+2025-12-10 21:11:10 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:11:10 - VibeMailing - INFO - Contact 2/195: harish.koul@bharatpe.com
+2025-12-10 21:11:10 - VibeMailing - INFO - ============================================================
+2025-12-10 21:11:10 - VibeMailing - INFO - Generating email for harish.koul@bharatpe.com
+2025-12-10 21:11:11 - VibeMailing - INFO - ✓ Email generated (LLM) for harish.koul@bharatpe.com
+2025-12-10 21:11:11 - VibeMailing - INFO - Composing email to harish.koul@bharatpe.com
+2025-12-10 21:11:11 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:11:13 - VibeMailing - INFO -   → Filling recipient: harish.koul@bharatpe.com
+2025-12-10 21:11:13 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:11:14 - VibeMailing - INFO -   → Filling body (1143 chars)...
+2025-12-10 21:11:15 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:11:18 - VibeMailing - INFO - ✓ Email sent successfully to harish.koul@bharatpe.com
+2025-12-10 21:11:18 - VibeMailing - INFO - ✓ Email sent to harish.koul@bharatpe.com
+2025-12-10 21:11:18 - VibeMailing - INFO - ✓ Email sent [2/195]: harish.koul@bharatpe.com - Request for Suitable Job Opportunity / Referral - Harish Koul
+2025-12-10 21:11:18 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:11:18 - VibeMailing - INFO - Applying cooldown: 27.1 seconds
+2025-12-10 21:11:45 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:11:45 - VibeMailing - INFO - Contact 3/195: Rajendra.raut@jadeglobal.com
+2025-12-10 21:11:45 - VibeMailing - INFO - ============================================================
+2025-12-10 21:11:45 - VibeMailing - INFO - Generating email for Rajendra.raut@jadeglobal.com
+2025-12-10 21:11:46 - VibeMailing - INFO - ✓ Email generated (LLM) for Rajendra.raut@jadeglobal.com
+2025-12-10 21:11:46 - VibeMailing - INFO - Composing email to Rajendra.raut@jadeglobal.com
+2025-12-10 21:11:46 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:11:48 - VibeMailing - INFO -   → Filling recipient: Rajendra.raut@jadeglobal.com
+2025-12-10 21:11:49 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:11:50 - VibeMailing - INFO -   → Filling body (1142 chars)...
+2025-12-10 21:11:51 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:12:39 - VibeMailing - INFO - ✓ Email sent successfully to Rajendra.raut@jadeglobal.com
+2025-12-10 21:12:39 - VibeMailing - INFO - ✓ Email sent to Rajendra.raut@jadeglobal.com
+2025-12-10 21:12:39 - VibeMailing - INFO - ✓ Email sent [3/195]: Rajendra.raut@jadeglobal.com - Request for Suitable Job Opportunity / Referral - Rajendra Raut
+2025-12-10 21:12:39 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:12:39 - VibeMailing - INFO - Applying cooldown: 23.3 seconds
+2025-12-10 21:13:02 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:13:02 - VibeMailing - INFO - Contact 4/195: Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:02 - VibeMailing - INFO - ============================================================
+2025-12-10 21:13:02 - VibeMailing - INFO - Generating email for Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:03 - VibeMailing - INFO - ✓ Email generated (LLM) for Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:03 - VibeMailing - INFO - Composing email to Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:03 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:13:05 - VibeMailing - INFO -   → Filling recipient: Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:06 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:13:06 - VibeMailing - INFO -   → Filling body (1127 chars)...
+2025-12-10 21:13:07 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:13:10 - VibeMailing - INFO - ✓ Email sent successfully to Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:10 - VibeMailing - INFO - ✓ Email sent to Niyas.parapuravan@wellsfargo.com
+2025-12-10 21:13:10 - VibeMailing - INFO - ✓ Email sent [4/195]: Niyas.parapuravan@wellsfargo.com - Request for Suitable Job Opportunity / Referral - Niyas Parapuravan
+2025-12-10 21:13:10 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:13:10 - VibeMailing - INFO - Applying cooldown: 41.0 seconds
+2025-12-10 21:13:51 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:13:51 - VibeMailing - INFO - Contact 5/195: riddhimathur@ecozensolutions.com
+2025-12-10 21:13:51 - VibeMailing - INFO - ============================================================
+2025-12-10 21:13:51 - VibeMailing - INFO - Generating email for riddhimathur@ecozensolutions.com
+2025-12-10 21:13:52 - VibeMailing - INFO - ✓ Email generated (LLM) for riddhimathur@ecozensolutions.com
+2025-12-10 21:13:52 - VibeMailing - INFO - Composing email to riddhimathur@ecozensolutions.com
+2025-12-10 21:13:52 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:13:54 - VibeMailing - INFO -   → Filling recipient: riddhimathur@ecozensolutions.com
+2025-12-10 21:13:55 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:13:55 - VibeMailing - INFO -   → Filling body (1104 chars)...
+2025-12-10 21:13:57 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:14:24 - VibeMailing - INFO - ✓ Email sent successfully to riddhimathur@ecozensolutions.com
+2025-12-10 21:14:24 - VibeMailing - INFO - ✓ Email sent to riddhimathur@ecozensolutions.com
+2025-12-10 21:14:24 - VibeMailing - INFO - ✓ Email sent [5/195]: riddhimathur@ecozensolutions.com - Request for Suitable Job Opportunity / Referral - Riddhi Mathur
+2025-12-10 21:14:24 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:14:24 - VibeMailing - INFO - Applying cooldown: 26.1 seconds
+2025-12-10 21:14:50 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:14:50 - VibeMailing - INFO - Contact 6/195: piyush@tomorrowcapital.in
+2025-12-10 21:14:50 - VibeMailing - INFO - ============================================================
+2025-12-10 21:14:50 - VibeMailing - INFO - Generating email for piyush@tomorrowcapital.in
+2025-12-10 21:14:51 - VibeMailing - INFO - ✓ Email generated (LLM) for piyush@tomorrowcapital.in
+2025-12-10 21:14:51 - VibeMailing - INFO - Composing email to piyush@tomorrowcapital.in
+2025-12-10 21:14:51 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:14:53 - VibeMailing - INFO -   → Filling recipient: piyush@tomorrowcapital.in
+2025-12-10 21:14:54 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:14:55 - VibeMailing - INFO -   → Filling body (1173 chars)...
+2025-12-10 21:14:56 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:14:59 - VibeMailing - INFO - ✓ Email sent successfully to piyush@tomorrowcapital.in
+2025-12-10 21:14:59 - VibeMailing - INFO - ✓ Email sent to piyush@tomorrowcapital.in
+2025-12-10 21:14:59 - VibeMailing - INFO - ✓ Email sent [6/195]: piyush@tomorrowcapital.in - Request for Suitable Job Opportunity / Referral - Piyush Surana
+2025-12-10 21:14:59 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:14:59 - VibeMailing - INFO - Applying cooldown: 38.1 seconds
+2025-12-10 21:15:37 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:15:37 - VibeMailing - INFO - Contact 7/195: palak.goyal@vedantu.com
+2025-12-10 21:15:37 - VibeMailing - INFO - ============================================================
+2025-12-10 21:15:37 - VibeMailing - INFO - Generating email for palak.goyal@vedantu.com
+2025-12-10 21:15:38 - VibeMailing - INFO - ✓ Email generated (LLM) for palak.goyal@vedantu.com
+2025-12-10 21:15:38 - VibeMailing - INFO - Composing email to palak.goyal@vedantu.com
+2025-12-10 21:15:38 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:15:40 - VibeMailing - INFO -   → Filling recipient: palak.goyal@vedantu.com
+2025-12-10 21:15:40 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:15:41 - VibeMailing - INFO -   → Filling body (1059 chars)...
+2025-12-10 21:15:42 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:15:46 - VibeMailing - INFO - ✓ Email sent successfully to palak.goyal@vedantu.com
+2025-12-10 21:15:46 - VibeMailing - INFO - ✓ Email sent to palak.goyal@vedantu.com
+2025-12-10 21:15:46 - VibeMailing - INFO - ✓ Email sent [7/195]: palak.goyal@vedantu.com - Request for Suitable Job Opportunity / Referral - Palak Goyal
+2025-12-10 21:15:46 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:15:46 - VibeMailing - INFO - Applying cooldown: 23.3 seconds
+2025-12-10 21:16:10 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:16:10 - VibeMailing - INFO - Contact 8/195: Tahseen_Shaikh@gep.com
+2025-12-10 21:16:10 - VibeMailing - INFO - ============================================================
+2025-12-10 21:16:10 - VibeMailing - INFO - Generating email for Tahseen_Shaikh@gep.com
+2025-12-10 21:16:10 - VibeMailing - INFO - ✓ Email generated (LLM) for Tahseen_Shaikh@gep.com
+2025-12-10 21:16:10 - VibeMailing - INFO - Composing email to Tahseen_Shaikh@gep.com
+2025-12-10 21:16:11 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:16:13 - VibeMailing - INFO -   → Filling recipient: Tahseen_Shaikh@gep.com
+2025-12-10 21:16:13 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:16:14 - VibeMailing - INFO -   → Filling body (1177 chars)...
+2025-12-10 21:16:15 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:16:25 - VibeMailing - INFO - ✓ Email sent successfully to Tahseen_Shaikh@gep.com
+2025-12-10 21:16:25 - VibeMailing - INFO - ✓ Email sent to Tahseen_Shaikh@gep.com
+2025-12-10 21:16:25 - VibeMailing - INFO - ✓ Email sent [8/195]: Tahseen_Shaikh@gep.com - Request for Suitable Job Opportunity / Referral - Tahseen S.
+2025-12-10 21:16:25 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:16:25 - VibeMailing - INFO - Applying cooldown: 27.5 seconds
+2025-12-10 21:16:52 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:16:52 - VibeMailing - INFO - Contact 9/195: manisha@cldcvr.com
+2025-12-10 21:16:52 - VibeMailing - INFO - ============================================================
+2025-12-10 21:16:52 - VibeMailing - INFO - Generating email for manisha@cldcvr.com
+2025-12-10 21:16:53 - VibeMailing - INFO - ✓ Email generated (LLM) for manisha@cldcvr.com
+2025-12-10 21:16:53 - VibeMailing - INFO - Composing email to manisha@cldcvr.com
+2025-12-10 21:16:53 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:16:55 - VibeMailing - INFO -   → Filling recipient: manisha@cldcvr.com
+2025-12-10 21:16:56 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:16:56 - VibeMailing - INFO -   → Filling body (1176 chars)...
+2025-12-10 21:16:58 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:17:00 - VibeMailing - INFO - ✓ Email sent successfully to manisha@cldcvr.com
+2025-12-10 21:17:00 - VibeMailing - INFO - ✓ Email sent to manisha@cldcvr.com
+2025-12-10 21:17:00 - VibeMailing - INFO - ✓ Email sent [9/195]: manisha@cldcvr.com - Request for Suitable Job Opportunity / Referral - Manisha K.
+2025-12-10 21:17:00 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:17:00 - VibeMailing - INFO - Applying cooldown: 39.7 seconds
+2025-12-10 21:17:39 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:17:39 - VibeMailing - INFO - Contact 10/195: sangupta@merkleinc.com
+2025-12-10 21:17:39 - VibeMailing - INFO - ============================================================
+2025-12-10 21:17:39 - VibeMailing - INFO - Generating email for sangupta@merkleinc.com
+2025-12-10 21:17:40 - VibeMailing - INFO - ✓ Email generated (LLM) for sangupta@merkleinc.com
+2025-12-10 21:17:40 - VibeMailing - INFO - Composing email to sangupta@merkleinc.com
+2025-12-10 21:17:40 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:17:42 - VibeMailing - INFO -   → Filling recipient: sangupta@merkleinc.com
+2025-12-10 21:17:43 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:17:44 - VibeMailing - INFO -   → Filling body (1042 chars)...
+2025-12-10 21:17:45 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:17:48 - VibeMailing - INFO - ✓ Email sent successfully to sangupta@merkleinc.com
+2025-12-10 21:17:48 - VibeMailing - INFO - ✓ Email sent to sangupta@merkleinc.com
+2025-12-10 21:17:48 - VibeMailing - INFO - ✓ Email sent [10/195]: sangupta@merkleinc.com - Request for Suitable Job Opportunity / Referral - Sanjana Gupta
+2025-12-10 21:17:48 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:17:48 - VibeMailing - INFO - Applying cooldown: 25.3 seconds
+2025-12-10 21:18:13 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:18:13 - VibeMailing - INFO - Contact 11/195: mamatha.n@optit.co
+2025-12-10 21:18:13 - VibeMailing - INFO - ============================================================
+2025-12-10 21:18:13 - VibeMailing - INFO - Generating email for mamatha.n@optit.co
+2025-12-10 21:18:14 - VibeMailing - INFO - ✓ Email generated (LLM) for mamatha.n@optit.co
+2025-12-10 21:18:14 - VibeMailing - INFO - Composing email to mamatha.n@optit.co
+2025-12-10 21:18:14 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:18:16 - VibeMailing - INFO -   → Filling recipient: mamatha.n@optit.co
+2025-12-10 21:18:17 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:18:18 - VibeMailing - INFO -   → Filling body (1058 chars)...
+2025-12-10 21:18:19 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:18:26 - VibeMailing - INFO - ✓ Email sent successfully to mamatha.n@optit.co
+2025-12-10 21:18:26 - VibeMailing - INFO - ✓ Email sent to mamatha.n@optit.co
+2025-12-10 21:18:26 - VibeMailing - INFO - ✓ Email sent [11/195]: mamatha.n@optit.co - Request for Suitable Job Opportunity / Referral - Mamatha T
+2025-12-10 21:18:26 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:18:26 - VibeMailing - INFO - Applying cooldown: 25.5 seconds
+2025-12-10 21:18:51 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:18:51 - VibeMailing - INFO - Contact 12/195: poulami.kanjilal@arohan.in
+2025-12-10 21:18:51 - VibeMailing - INFO - ============================================================
+2025-12-10 21:18:51 - VibeMailing - INFO - Generating email for poulami.kanjilal@arohan.in
+2025-12-10 21:18:52 - VibeMailing - INFO - ✓ Email generated (LLM) for poulami.kanjilal@arohan.in
+2025-12-10 21:18:52 - VibeMailing - INFO - Composing email to poulami.kanjilal@arohan.in
+2025-12-10 21:18:52 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:18:54 - VibeMailing - INFO -   → Filling recipient: poulami.kanjilal@arohan.in
+2025-12-10 21:18:54 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:18:55 - VibeMailing - INFO -   → Filling body (1177 chars)...
+2025-12-10 21:18:56 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:19:05 - VibeMailing - INFO - ✓ Email sent successfully to poulami.kanjilal@arohan.in
+2025-12-10 21:19:05 - VibeMailing - INFO - ✓ Email sent to poulami.kanjilal@arohan.in
+2025-12-10 21:19:05 - VibeMailing - INFO - ✓ Email sent [12/195]: poulami.kanjilal@arohan.in - Request for Suitable Job Opportunity / Referral - Poulami Kanjilal
+2025-12-10 21:19:05 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:19:05 - VibeMailing - INFO - Applying cooldown: 34.9 seconds
+2025-12-10 21:19:39 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:19:39 - VibeMailing - INFO - Contact 13/195: nisha.pandita@lonartech.com
+2025-12-10 21:19:39 - VibeMailing - INFO - ============================================================
+2025-12-10 21:19:39 - VibeMailing - INFO - Generating email for nisha.pandita@lonartech.com
+2025-12-10 21:19:40 - VibeMailing - INFO - ✓ Email generated (LLM) for nisha.pandita@lonartech.com
+2025-12-10 21:19:40 - VibeMailing - INFO - Composing email to nisha.pandita@lonartech.com
+2025-12-10 21:19:40 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:19:42 - VibeMailing - INFO -   → Filling recipient: nisha.pandita@lonartech.com
+2025-12-10 21:19:42 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:19:43 - VibeMailing - INFO -   → Filling body (1161 chars)...
+2025-12-10 21:19:44 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:19:48 - VibeMailing - INFO - ✓ Email sent successfully to nisha.pandita@lonartech.com
+2025-12-10 21:19:48 - VibeMailing - INFO - ✓ Email sent to nisha.pandita@lonartech.com
+2025-12-10 21:19:48 - VibeMailing - INFO - ✓ Email sent [13/195]: nisha.pandita@lonartech.com - Request for Suitable Job Opportunity / Referral - Nisha Pandita
+2025-12-10 21:19:48 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:19:48 - VibeMailing - INFO - Applying cooldown: 25.0 seconds
+2025-12-10 21:20:12 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:20:12 - VibeMailing - INFO - Contact 14/195: anurag.tiwari@inmobi.com
+2025-12-10 21:20:12 - VibeMailing - INFO - ============================================================
+2025-12-10 21:20:12 - VibeMailing - INFO - Generating email for anurag.tiwari@inmobi.com
+2025-12-10 21:20:13 - VibeMailing - INFO - ✓ Email generated (LLM) for anurag.tiwari@inmobi.com
+2025-12-10 21:20:13 - VibeMailing - INFO - Composing email to anurag.tiwari@inmobi.com
+2025-12-10 21:20:13 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:20:15 - VibeMailing - INFO -   → Filling recipient: anurag.tiwari@inmobi.com
+2025-12-10 21:20:16 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:20:16 - VibeMailing - INFO -   → Filling body (1050 chars)...
+2025-12-10 21:20:18 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:20:21 - VibeMailing - INFO - ✓ Email sent successfully to anurag.tiwari@inmobi.com
+2025-12-10 21:20:21 - VibeMailing - INFO - ✓ Email sent to anurag.tiwari@inmobi.com
+2025-12-10 21:20:21 - VibeMailing - INFO - ✓ Email sent [14/195]: anurag.tiwari@inmobi.com - Request for Suitable Job Opportunity / Referral - Anurag Tiwari
+2025-12-10 21:20:21 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:20:21 - VibeMailing - INFO - Applying cooldown: 22.3 seconds
+2025-12-10 21:20:43 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:20:43 - VibeMailing - INFO - Contact 15/195: smundra@redhat.com
+2025-12-10 21:20:43 - VibeMailing - INFO - ============================================================
+2025-12-10 21:20:43 - VibeMailing - INFO - Generating email for smundra@redhat.com
+2025-12-10 21:20:44 - VibeMailing - INFO - ✓ Email generated (LLM) for smundra@redhat.com
+2025-12-10 21:20:44 - VibeMailing - INFO - Composing email to smundra@redhat.com
+2025-12-10 21:20:44 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:20:46 - VibeMailing - INFO -   → Filling recipient: smundra@redhat.com
+2025-12-10 21:20:47 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:20:48 - VibeMailing - INFO -   → Filling body (1130 chars)...
+2025-12-10 21:20:49 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:21:12 - VibeMailing - INFO - ✓ Email sent successfully to smundra@redhat.com
+2025-12-10 21:21:12 - VibeMailing - INFO - ✓ Email sent to smundra@redhat.com
+2025-12-10 21:21:12 - VibeMailing - INFO - ✓ Email sent [15/195]: smundra@redhat.com - Request for Suitable Job Opportunity / Referral - Shravan Mundra
+2025-12-10 21:21:12 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:21:12 - VibeMailing - INFO - Applying cooldown: 23.1 seconds
+2025-12-10 21:21:35 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:21:35 - VibeMailing - INFO - Contact 16/195: akshitaj@adobe.com
+2025-12-10 21:21:35 - VibeMailing - INFO - ============================================================
+2025-12-10 21:21:35 - VibeMailing - INFO - Generating email for akshitaj@adobe.com
+2025-12-10 21:21:36 - VibeMailing - INFO - ✓ Email generated (LLM) for akshitaj@adobe.com
+2025-12-10 21:21:36 - VibeMailing - INFO - Composing email to akshitaj@adobe.com
+2025-12-10 21:21:36 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:21:38 - VibeMailing - INFO -   → Filling recipient: akshitaj@adobe.com
+2025-12-10 21:21:39 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:21:39 - VibeMailing - INFO -   → Filling body (989 chars)...
+2025-12-10 21:21:41 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:21:43 - VibeMailing - INFO - ✓ Email sent successfully to akshitaj@adobe.com
+2025-12-10 21:21:43 - VibeMailing - INFO - ✓ Email sent to akshitaj@adobe.com
+2025-12-10 21:21:43 - VibeMailing - INFO - ✓ Email sent [16/195]: akshitaj@adobe.com - Request for Suitable Job Opportunity / Referral - Akshita Jain
+2025-12-10 21:21:43 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:21:43 - VibeMailing - INFO - Applying cooldown: 25.0 seconds
+2025-12-10 21:22:09 - VibeMailing - INFO - 
+============================================================
+2025-12-10 21:22:09 - VibeMailing - INFO - Contact 17/195: nitin.gupta@transunion.com
+2025-12-10 21:22:09 - VibeMailing - INFO - ============================================================
+2025-12-10 21:22:09 - VibeMailing - INFO - Generating email for nitin.gupta@transunion.com
+2025-12-10 21:22:09 - VibeMailing - INFO - ✓ Email generated (LLM) for nitin.gupta@transunion.com
+2025-12-10 21:22:09 - VibeMailing - INFO - Composing email to nitin.gupta@transunion.com
+2025-12-10 21:22:09 - VibeMailing - INFO -   → Opening compose window...
+2025-12-10 21:22:12 - VibeMailing - INFO -   → Filling recipient: nitin.gupta@transunion.com
+2025-12-10 21:22:12 - VibeMailing - INFO -   → Filling subject...
+2025-12-10 21:22:13 - VibeMailing - INFO -   → Filling body (1108 chars)...
+2025-12-10 21:22:14 - VibeMailing - INFO -   → Sending email...
+2025-12-10 21:22:18 - VibeMailing - INFO - ✓ Email sent successfully to nitin.gupta@transunion.com
+2025-12-10 21:22:18 - VibeMailing - INFO - ✓ Email sent to nitin.gupta@transunion.com
+2025-12-10 21:22:18 - VibeMailing - INFO - ✓ Email sent [17/195]: nitin.gupta@transunion.com - Request for Suitable Job Opportunity / Referral - Nitin Gupta
+2025-12-10 21:22:18 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:22:18 - VibeMailing - INFO - Applying cooldown: 38.7 seconds
+2025-12-10 21:22:49 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-10 21:22:49 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_45eab2ed.json
+2025-12-10 21:22:49 - VibeMailing - INFO - Closing browser...
+2025-12-10 21:22:49 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-10 21:22:49 - VibeMailing - WARNING - User interrupted program
+2025-12-13 15:17:30 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:30 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-13 15:17:30 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-13 15:17:30 - VibeMailing - INFO - Log level: INFO
+2025-12-13 15:17:30 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:30 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:30 - VibeMailing - INFO - VibeMailing Started
+2025-12-13 15:17:30 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-13 15:17:48 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-13 15:17:48 - VibeMailing - INFO - Log level: INFO
+2025-12-13 15:17:48 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - VibeMailing Started
+2025-12-13 15:17:48 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-13 15:17:48 - VibeMailing - INFO - ============================================================
+2025-12-13 15:17:48 - VibeMailing - INFO - Campaign mode: semi
+2025-12-13 15:17:51 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-13 15:18:14 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-13 15:18:14 - VibeMailing - INFO - Selected CSV: contacts/hrs.csv
+2025-12-13 15:18:19 - VibeMailing - INFO - Selected template: introduction
+2025-12-13 15:18:19 - VibeMailing - INFO - Using template: introduction
+2025-12-13 15:18:19 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-13 15:18:19 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-13 15:18:19 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-13 15:18:19 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-13 15:18:27 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-13 15:18:27 - VibeMailing - INFO - Checking login status...
+2025-12-13 15:18:27 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-13 15:18:35 - VibeMailing - INFO - ✓ User is logged in
+2025-12-13 15:18:35 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-13 15:18:35 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-13 15:18:35 - VibeMailing - INFO - Loading CSV: contacts/hrs.csv
+2025-12-13 15:18:35 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-13 15:18:35 - VibeMailing - INFO - ✓ Loaded 1842 contacts from CSV
+2025-12-13 15:18:35 - VibeMailing - INFO - Loaded 1842 contacts from CSV
+2025-12-13 15:18:35 - VibeMailing - INFO - Campaign tracker initialized: 1842 total rows, starting at row 0
+2025-12-13 15:18:54 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-13 15:18:54 - VibeMailing - INFO - Closing browser...
+2025-12-13 15:18:54 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-13 15:18:54 - VibeMailing - WARNING - User interrupted program
+2025-12-13 15:21:36 - VibeMailing - INFO - ============================================================
+2025-12-13 15:21:36 - VibeMailing - INFO - VibeMailing Logger Initialized
+2025-12-13 15:21:36 - VibeMailing - INFO - Log file: ./logs/app.log
+2025-12-13 15:21:36 - VibeMailing - INFO - Log level: INFO
+2025-12-13 15:21:36 - VibeMailing - INFO - ============================================================
+2025-12-13 15:21:36 - VibeMailing - INFO - ============================================================
+2025-12-13 15:21:36 - VibeMailing - INFO - VibeMailing Started
+2025-12-13 15:21:36 - VibeMailing - INFO - ============================================================
+2025-12-13 15:21:36 - VibeMailing - INFO - ============================================================
+2025-12-13 15:21:36 - VibeMailing - INFO - CAMPAIGN STARTING
+2025-12-13 15:21:36 - VibeMailing - INFO - ============================================================
+2025-12-13 15:21:36 - VibeMailing - INFO - Campaign mode: semi
+2025-12-13 15:21:39 - VibeMailing - INFO - Selected account: vibemailingtest@gmail.com
+2025-12-13 15:21:47 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-13 15:21:47 - VibeMailing - INFO - Selected CSV: contacts/hrs.csv
+2025-12-13 15:21:51 - VibeMailing - INFO - Selected template: default_outreach
+2025-12-13 15:21:51 - VibeMailing - INFO - Using template: default_outreach
+2025-12-13 15:21:51 - VibeMailing - INFO - Launching browser for vibemailingtest@gmail.com
+2025-12-13 15:21:51 - VibeMailing - INFO - Initializing account: vibemailingtest@gmail.com
+2025-12-13 15:21:51 - VibeMailing - INFO - Launching browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-13 15:21:51 - VibeMailing - INFO - Creating browser with profile: /Users/shravan/personal-github/vibe-mailing-automation/profiles/profile_vibemailingtest
+2025-12-13 15:21:53 - VibeMailing - INFO - ✓ Browser launched successfully
+2025-12-13 15:21:53 - VibeMailing - INFO - Checking login status...
+2025-12-13 15:21:53 - VibeMailing - INFO - Checking Gmail login status...
+2025-12-13 15:24:45 - VibeMailing - INFO - ✓ User is logged in
+2025-12-13 15:24:45 - VibeMailing - INFO - ✓ Account initialized successfully: vibemailingtest@gmail.com
+2025-12-13 15:24:45 - VibeMailing - INFO - ✓ Browser initialized and logged in
+2025-12-13 15:24:45 - VibeMailing - INFO - Loading CSV: contacts/hrs.csv
+2025-12-13 15:24:45 - VibeMailing - INFO - ✓ CSV validation passed: 1842 contacts
+2025-12-13 15:24:45 - VibeMailing - INFO - ✓ Loaded 1842 contacts from CSV
+2025-12-13 15:24:45 - VibeMailing - INFO - Loaded 1842 contacts from CSV
+2025-12-13 15:24:45 - VibeMailing - INFO - Campaign tracker initialized: 1842 total rows, starting at row 0
+2025-12-13 15:25:27 - VibeMailing - INFO - Starting campaign loop...
+2025-12-13 15:25:27 - VibeMailing - INFO - Processing 1842 contacts in semi mode
+2025-12-13 15:25:27 - VibeMailing - INFO - 
+============================================================
+2025-12-13 15:25:27 - VibeMailing - INFO - Contact 1/1842: akanksha.puri@sourcefuse.com
+2025-12-13 15:25:27 - VibeMailing - INFO - ============================================================
+2025-12-13 15:25:27 - VibeMailing - INFO - Generating email for akanksha.puri@sourcefuse.com
+2025-12-13 15:25:28 - VibeMailing - INFO - ✓ Email generated (LLM) for akanksha.puri@sourcefuse.com
+2025-12-13 15:25:28 - VibeMailing - INFO - Composing email to akanksha.puri@sourcefuse.com
+2025-12-13 15:25:28 - VibeMailing - INFO -   → Opening compose window...
+2025-12-13 15:25:30 - VibeMailing - INFO -   → Filling recipient: akanksha.puri@sourcefuse.com
+2025-12-13 15:25:31 - VibeMailing - INFO -   → Filling subject...
+2025-12-13 15:25:31 - VibeMailing - INFO -   → Filling body (667 chars)...
+2025-12-13 15:25:33 - VibeMailing - INFO -   → Sending email...
+2025-12-13 15:25:33 - VibeMailing - INFO - Email composed for akanksha.puri@sourcefuse.com. Waiting for user to send manually...
+2025-12-13 15:36:43 - VibeMailing - WARNING - Campaign interrupted by user
+2025-12-13 15:36:43 - VibeMailing - INFO - ✓ Loaded checkpoint: /Users/shravan/personal-github/vibe-mailing-automation/checkpoints/checkpoint_test_account_1622ef74.json
+2025-12-13 15:36:43 - VibeMailing - INFO - Closing browser...
+2025-12-13 15:36:43 - VibeMailing - INFO - ✓ Browser closed successfully
+2025-12-13 15:36:43 - VibeMailing - WARNING - User interrupted program
